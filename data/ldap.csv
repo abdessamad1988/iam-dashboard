@@ -1,0 +1,247 @@
+﻿uid,cn,mail,enabled,description,role,department,last_logon
+EMP01001,Ali BENHADDOU,ali.benhaddou@company.ma,True,Ingénieur Système,user,DAF,2025-12-15
+EMP01002,Omar ALAOUI,omar.alaoui@company.ma,True,Responsable Sécurité,admin,DLogistique,2026-03-24
+EMP01003,Rachid BENALI,rachid.benali@company.ma,True,Directeur Adjoint,user,DSI,2026-02-27
+EMP01004,Soumia CHRAIBI,soumia.chraibi@company.ma,True,Ingénieur Système,user,DCom,2026-04-07
+EMP01005,Laila LAZRAK,,True,Assistant RH,user,DAF,2025-11-21
+EMP01006,Tariq LAZRAK,tariq.lazrak@company.ma,True,Développeur Senior,user,DRH,2026-01-11
+EMP01007,Hamid BAKKALI,hamid.bakkali@company.ma,True,Data Analyst,user,DProd,2025-06-07
+EMP01008,Soumia EL AMRANI,soumia.el.amrani@company.ma,True,Développeur Senior,user,DProd,2025-08-31
+EMP01009,Karim CHERKAOUI_OLD,karim.cherkaoui@company.ma,True,Data Analyst,user,DProd,2025-11-25
+EMP01010,Hassan CHRAIBI,hassan.chraibi@company.ma,True,Analyste RH,user,DCom,2026-03-31
+EMP01011,Aicha BAKKALI,aicha.bakkali@company.ma,True,Développeur Senior,user,DJuridique,2026-04-20
+EMP01013,Hassan BENSOUDA,hassan.bensouda@company.ma,True,Data Analyst,user,DJuridique,2026-01-05
+EMP01014,Salma EL AMRANI,salma.el.amrani@company.ma,True,Technicien Réseau,user,Direction Générale,2026-03-15
+EMP01016,Hassan BENSOUDA,hassan.bensouda@company.ma,True,Directeur Adjoint,user,DProd,2026-03-13
+EMP01017,Redouane BENHADDOU,redouane.benhaddou@company.ma,True,Manager Opérationnel,user,DAF,2026-01-01
+EMP01018,Fatima BENSOUDA,fatima.bensouda@company.ma,True,Chargé Communication,user,DCom,2026-04-22
+EMP01020,Redouane NACIRI,redouane.naciri@company.ma,True,Chef de Projet,user,DRH,2025-12-08
+EMP01021,Laila BENHADDOU_OLD,laila.benhaddou@company.ma,True,Ingénieur Système,user,DLogistique,2025-12-09
+EMP01022,Imane SOUSSI,imane.soussi@company.ma,True,Contrôleur de Gestion,user,DSI,2026-03-23
+EMP01023,Ali BENKIRANE,ali.benkirane@company.ma,True,Responsable Sécurité,user,DProd,
+EMP01024,Rim FASSI,rim.fassi@company.ma,True,Comptable Principal,user,DCom,2025-12-09
+EMP01025,Nadia LAZRAK,nadia.lazrak@company.ma,True,Contrôleur de Gestion,user,DCom,2026-03-26
+EMP01026,Issam NACIRI,issam.naciri@company.ma,True,Directeur Adjoint,user,DAF,2025-11-14
+EMP01027,Ghita LAZRAK,ghita.lazrak@company.ma,True,Ingénieur Système,user,Direction Générale,2025-06-30
+EMP01028,Samir BERRADA,samir.berrada@company.ma,True,Responsable Logistique,user,DCom,2026-02-27
+EMP01031,Soumia EL OUAZZANI,soumia.el.ouazzani@company.ma,True,Directeur Adjoint,user,DLogistique,2025-12-05
+EMP01032,Samir BENHADDOU,samir.benhaddou@company.ma,True,Architecte Solution,user,DJuridique,2026-03-08
+EMP01033,Aicha EL IDRISSI,aicha.el.idrissi@company.ma,True,Chef de Projet,user,DLogistique,2026-03-05
+EMP01034,Mohamed EL IDRISSI,mohamed.el.idrissi@company.ma,True,Chef de Projet,user,DSI,
+EMP01035,Youssef TAZI,youssef.tazi@company.ma,True,Juriste,user,Direction Générale,
+EMP01036,Redouane EL HAJJI,redouane.el.hajji@company.ma,True,Directeur Adjoint,user,DJuridique,2025-12-31
+EMP01038,Hamid BOUAZZA,hamid.bouazza@company.ma,True,Assistant RH,user,DSI,2026-03-29
+EMP01039,Omar BENHADDOU,omar.benhaddou@company.ma,True,Analyste RH,user,DProd,2026-01-23
+EMP01040,Samira EL IDRISSI,samira.el.idrissi@company.ma,True,Directeur Adjoint,user,DAF,2025-04-13
+EMP01041,Mustapha BENNANI_OLD,mustapha.bennani@company.ma,True,Architecte Solution,user,DRH,2026-01-17
+EMP01042,Ibtissam TAHIRI,ibtissam.tahiri@company.ma,True,Développeur Senior,user,DJuridique,2026-02-21
+EMP01043,Meryem EL OUAZZANI,,True,Comptable Principal,user,DJuridique,2025-09-09
+EMP01044,Houda BAKKALI,houda.bakkali@company.ma,True,Analyste RH,user,DRH,2026-04-13
+EMP01045,Imane BENSOUDA_OLD,imane.bensouda@company.ma,True,Responsable Logistique,admin,DRH,2026-01-11
+EMP01046,Karim CHRAIBI,karim.chraibi@company.ma,True,Directeur Adjoint,user,DSI,2026-02-14
+EMP01047,Khalid KETTANI,khalid.kettani@company.ma,True,Analyste RH,user,DAF,2026-02-07
+EMP01048,Rachid NACIRI,rachid.naciri@company.ma,True,Comptable Principal,user,DRH,2025-11-10
+EMP01049,Meryem BAKKALI,meryem.bakkali@company.ma,True,Manager Opérationnel,user,Direction Générale,2025-04-30
+EMP01050,Youssef SOUSSI,youssef.soussi@company.ma,True,Data Analyst,user,DProd,2025-11-13
+EMP01051,Amine CHRAIBI,amine.chraibi@company.ma,True,Chargé Communication,user,DAF,2026-01-09
+EMP01052,Mehdi BENHADDOU,mehdi.benhaddou@company.ma,True,Architecte Solution,user,DRH,2025-12-23
+EMP01053,Bilal EL AMRANI,bilal.el.amrani@company.ma,True,DevOps Engineer,user,DRH,2026-02-14
+EMP01054,Hasnaa CHRAIBI,hasnaa.chraibi@company.ma,False,Technicien Réseau,user,DProd,2026-03-22
+EMP01058,Ali BENSOUDA_OLD,ali.bensouda@company.ma,True,Développeur Senior,user,DAF,2026-02-22
+EMP01059,Issam FASSI,issam.fassi@company.ma,True,Directeur Adjoint,user,Direction Générale,2025-08-23
+EMP01060,Abdelhamid BENHADDOU,abdelhamid.benhaddou@company.ma,True,Contrôleur de Gestion,user,DAF,2026-02-05
+EMP01061,Rim BENHADDOU,rim.benhaddou@company.ma,True,Technicien Réseau,user,DProd,2025-12-04
+EMP01062,Abdelhamid BENHADDOU,abdelhamid.benhaddou@company.ma,True,Comptable Principal,user,DLogistique,
+EMP01063,Ali BENALI,,True,Chef de Projet,user,DAF,2026-01-14
+EMP01064,Samir EL OUAFI,samir.el.ouafi@company.ma,True,DevOps Engineer,user,DLogistique,2026-04-09
+EMP01065,Mehdi EL OUAFI,mehdi.el.ouafi@company.ma,True,Auditeur Interne,user,DSI,2026-04-23
+EMP01066,Meryem CHRAIBI,,True,Développeur Senior,user,DLogistique,2026-02-02
+EMP01067,Khadija BENKIRANE,khadija.benkirane@company.ma,True,Chargé Communication,user,DAF,2025-12-24
+EMP01068,Nadia BENALI,nadia.benali@company.ma,True,Juriste,user,Direction Générale,2026-03-19
+EMP01069,Meryem BAKKALI,meryem.bakkali@company.ma,True,Technicien Réseau,user,Direction Générale,2025-11-24
+EMP01070,Youssef BAKKALI,youssef.bakkali@company.ma,True,DBA,user,DLogistique,2025-12-04
+EMP01071,Aicha FASSI,aicha.fassi@company.ma,True,Chargé Communication,user,Direction Générale,2025-11-16
+EMP01072,Mustapha KETTANI,mustapha.kettani@company.ma,True,Chef de Projet,user,DCom,2025-06-02
+EMP01074,Abdelhamid BERRADA,abdelhamid.berrada@company.ma,True,Comptable Principal,user,DCom,2025-08-17
+EMP01075,Issam BERRADA,issam.berrada@company.ma,True,Assistant RH,user,DProd,2025-04-30
+EMP01076,Hasnaa SOUSSI,,True,Développeur Senior,user,Direction Générale,2025-05-13
+EMP01077,Rim EL OUAFI,rim.el.ouafi@company.ma,True,Ingénieur Système,user,DProd,2026-04-18
+EMP01078,Hassan BOUAZZA,hassan.bouazza@company.ma,True,Juriste,user,DRH,2026-04-25
+EMP01080,Karim BELKACEM,karim.belkacem@company.ma,False,Responsable Sécurité,user,DLogistique,2025-12-24
+EMP01082,Mohamed EL MANSOURI,mohamed.el.mansouri@company.ma,True,Responsable Logistique,user,DLogistique,2026-01-11
+EMP01083,Amine SOUSSI,amine.soussi@company.ma,True,Architecte Solution,user,Direction Générale,2026-04-14
+EMP01084,Laila ZIANI,laila.ziani@company.ma,True,Chef de Projet,user,DProd,2026-02-16
+EMP01085,Meryem EL MANSOURI,meryem.el.mansouri@company.ma,True,Responsable Logistique,user,Direction Générale,2026-03-22
+EMP01086,Youssef BENALI,youssef.benali@company.ma,True,Chargé Communication,user,DRH,2025-10-07
+EMP01087,Abderrahim BOUAZZA,abderrahim.bouazza@company.ma,True,Directeur Adjoint,user,DLogistique,2025-10-31
+EMP01088,Meryem BELKACEM,meryem.belkacem@company.ma,True,Responsable IT,user,DCom,2026-02-25
+EMP01090,Meryem CHERKAOUI,meryem.cherkaoui@company.ma,True,Développeur Senior,user,DProd,2025-05-30
+EMP01091,Ibtissam NACIRI,ibtissam.naciri@company.ma,True,Data Analyst,admin,DJuridique,
+EMP01092,Hasnaa EL MANSOURI,hasnaa.el.mansouri@company.ma,True,Assistant RH,user,DJuridique,
+EMP01093,Jamal BENKIRANE,jamal.benkirane@company.ma,True,Architecte Solution,user,Direction Générale,2026-03-22
+EMP01094,Ghita BENSOUDA,ghita.bensouda@company.ma,True,DBA,user,DCom,2026-04-07
+EMP01095,Karim TAZI,karim.tazi@company.ma,True,Chargé Communication,user,DProd,2025-11-20
+EMP01096,Fatima TAZI,fatima.tazi@company.ma,True,Responsable IT,user,DAF,2026-04-02
+EMP01097,Hassan CHRAIBI,hassan.chraibi@company.ma,True,Assistant RH,user,DJuridique,2026-01-27
+EMP01098,Zineb EL OUAFI,zineb.el.ouafi@company.ma,True,Assistant RH,user,DSI,2025-12-12
+EMP01100,Najat BAKKALI,najat.bakkali@company.ma,True,Responsable Sécurité,user,Direction Générale,2025-11-17
+EMP01101,Mustapha EL IDRISSI,mustapha.el.idrissi@company.ma,True,Assistant RH,user,DProd,2026-02-19
+EMP01103,Ahmed CHERKAOUI,ahmed.cherkaoui@company.ma,True,Manager Opérationnel,user,DRH,2026-04-18
+EMP01104,Rim BENHADDOU,rim.benhaddou@company.ma,True,Responsable IT,user,DAF,2025-04-23
+EMP01106,Salma LAZRAK,salma.lazrak@company.ma,True,Technicien Réseau,user,DLogistique,2026-02-03
+EMP01107,Rachid EL MANSOURI,rachid.el.mansouri@company.ma,True,DBA,user,,2026-01-15
+EMP01108,Hamid EL OUAFI,hamid.el.ouafi@company.ma,True,Chargé Communication,user,Direction Générale,2026-01-15
+EMP01109,Samira EL IDRISSI,samira.el.idrissi@company.ma,True,Ingénieur Système,user,Direction Générale,
+EMP01110,Ali ZIANI,ali.ziani@company.ma,True,DevOps Engineer,user,DJuridique,2025-12-22
+EMP01112,Omar FASSI,omar.fassi@company.ma,True,DevOps Engineer,user,DCom,2026-04-14
+EMP01113,Salma EL HAJJI,salma.el.hajji@company.ma,True,Manager Opérationnel,user,DLogistique,2026-04-04
+EMP01114,Meryem GHALI,meryem.ghali@company.ma,True,Développeur Senior,user,DCom,2025-12-04
+EMP01115,Ali SOUSSI,ali.soussi@company.ma,True,DevOps Engineer,user,DProd,2025-12-18
+EMP01116,Samir BOUAZZA,samir.bouazza@company.ma,True,Chef de Projet,user,DProd,2026-03-02
+EMP01117,Najat BAKKALI,najat.bakkali@company.ma,True,DBA,user,DProd,2026-01-18
+EMP01118,Imane SEFRIOUI,imane.sefrioui@company.ma,True,Responsable IT,user,DCom,2026-03-31
+EMP01119,Soumia TAHIRI,soumia.tahiri@company.ma,True,DBA,user,DCom,2026-01-28
+EMP01120,Meryem BAKKALI,meryem.bakkali@company.ma,True,Chef de Projet,user,DJuridique,2026-04-13
+EMP01121,Imane LAZRAK,imane.lazrak@company.ma,True,DevOps Engineer,user,DLogistique,2026-01-15
+EMP01122,Redouane BENALI,redouane.benali@company.ma,True,Juriste,user,Direction Générale,2025-12-05
+EMP01123,Abdelhamid TAHIRI,abdelhamid.tahiri@company.ma,True,Juriste,admin,DCom,2026-01-15
+EMP01124,Ghita BENALI,ghita.benali@company.ma,True,Directeur Adjoint,user,DLogistique,2025-11-15
+EMP01126,Ahmed TAHIRI,ahmed.tahiri@company.ma,False,Chef de Projet,user,DLogistique,2026-01-24
+EMP01127,Mehdi EL IDRISSI,mehdi.el.idrissi@company.ma,True,DevOps Engineer,user,DProd,2026-01-31
+EMP01128,Ibtissam BENKIRANE,ibtissam.benkirane@company.ma,True,Juriste,user,DJuridique,2026-02-22
+EMP01129,Abdelhamid FASSI,abdelhamid.fassi@company.ma,True,Chargé Communication,user,Direction Générale,2026-01-06
+EMP01130,Soumia BERRADA,soumia.berrada@company.ma,True,Comptable Principal,user,DJuridique,
+EMP01131,Mourad BENKIRANE_OLD,mourad.benkirane@company.ma,True,Contrôleur de Gestion,user,DRH,2026-03-26
+EMP01134,Fatima FASSI,fatima.fassi@company.ma,True,DBA,user,DSI,2026-02-16
+EMP01136,Jamal BENSOUDA,jamal.bensouda@company.ma,True,Développeur Senior,user,DLogistique,2025-06-24
+EMP01137,Abderrahim TAZI,abderrahim.tazi@company.ma,True,Analyste RH,user,DJuridique,2025-12-21
+EMP01138,Ali EL IDRISSI,ali.el.idrissi@company.ma,True,Responsable Sécurité,admin,Direction Générale,2026-02-28
+EMP01139,Sara BELKACEM,sara.belkacem@company.ma,True,Architecte Solution,user,DLogistique,2025-11-24
+EMP01140,Bilal GHALI,bilal.ghali@company.ma,True,Analyste RH,user,DRH,2026-04-03
+EMP01141,Zineb BENHADDOU,zineb.benhaddou@company.ma,True,Technicien Réseau,user,DAF,2025-07-05
+EMP01142,Ibtissam BENNANI,ibtissam.bennani@company.ma,True,Chef de Projet,user,DLogistique,2025-11-23
+EMP01143,Issam FILALI,issam.filali@company.ma,True,DBA,user,Direction Générale,2026-03-22
+EMP01144,Karim FILALI,karim.filali@company.ma,True,Architecte Solution,user,Direction Générale,2026-03-01
+EMP01145,Mourad TAHIRI,mourad.tahiri@company.ma,True,Directeur Adjoint,user,Direction Générale,2025-11-09
+EMP01146,Mustapha ALAOUI,mustapha.alaoui@company.ma,True,Responsable IT,user,DAF,2025-11-22
+EMP01147,Abderrahim SOUSSI,abderrahim.soussi@company.ma,True,Responsable Logistique,user,DJuridique,2025-04-27
+EMP01148,Houda FASSI,houda.fassi@company.ma,True,Technicien Réseau,user,DJuridique,2025-08-08
+EMP01149,Issam TAZI,issam.tazi@company.ma,False,Analyste RH,user,DProd,2026-03-26
+EMP01150,Ahmed BENSOUDA,ahmed.bensouda@company.ma,True,Chef de Projet,user,Direction Générale,2025-11-07
+EMP01151,Mustapha EL MANSOURI,mustapha.el.mansouri@company.ma,True,DevOps Engineer,user,DAF,2026-03-21
+EMP01153,Redouane EL MANSOURI,,True,Chef de Projet,user,DLogistique,2026-04-07
+EMP01155,Houda EL HAJJI,houda.el.hajji@company.ma,True,Responsable Sécurité,user,DRH,
+EMP01156,Amine BENSOUDA,amine.bensouda@company.ma,True,Développeur Senior,user,DLogistique,2026-02-09
+EMP01157,Mohamed EL MANSOURI,,True,Chargé Communication,user,DAF,2025-04-18
+EMP01159,Mustapha CHRAIBI,mustapha.chraibi@company.ma,True,Responsable Sécurité,user,DCom,2026-02-02
+EMP01160,Redouane SEFRIOUI,redouane.sefrioui@company.ma,True,Développeur Senior,user,Direction Générale,2025-12-10
+EMP01161,Mehdi BENNANI,mehdi.bennani@company.ma,True,Responsable Sécurité,user,,2026-04-21
+EMP01163,Khadija EL MANSOURI,khadija.el.mansouri@company.ma,True,DBA,user,DCom,2025-12-11
+EMP01164,Mustapha FILALI,mustapha.filali@company.ma,True,Assistant RH,user,DJuridique,2026-03-01
+EMP01165,Ibtissam EL AMRANI,ibtissam.el.amrani@company.ma,True,Responsable IT,user,DAF,2026-03-16
+EMP01166,Najat BENSOUDA,najat.bensouda@company.ma,True,Responsable Sécurité,user,DCom,2025-09-11
+EMP01167,Mehdi FASSI,mehdi.fassi@company.ma,True,DevOps Engineer,user,DJuridique,2026-04-09
+EMP01168,Soumia EL AMRANI,soumia.el.amrani@company.ma,True,DBA,user,DLogistique,2026-01-26
+EMP01169,Amine EL OUAZZANI,amine.el.ouazzani@company.ma,True,Directeur Adjoint,user,DRH,2025-12-28
+EMP01170,Aicha BELKACEM,aicha.belkacem@company.ma,True,Assistant RH,user,DJuridique,2026-02-07
+EMP01172,Fatima EL OUAFI,fatima.el.ouafi@company.ma,True,Contrôleur de Gestion,user,DAF,2026-02-20
+EMP01173,Sara BAKKALI,sara.bakkali@company.ma,True,Développeur Senior,user,Direction Générale,2025-07-27
+EMP01175,Abdelhamid ZIANI,abdelhamid.ziani@company.ma,True,Juriste,user,DJuridique,2025-12-28
+EMP01176,Tariq TAZI,tariq.tazi@company.ma,True,Responsable Sécurité,user,DJuridique,2026-01-19
+EMP01177,Redouane FILALI,,True,Responsable Sécurité,user,DRH,2026-03-02
+EMP01178,Karim BENHADDOU,karim.benhaddou@company.ma,True,Chargé Communication,user,DSI,2025-11-09
+EMP01179,Omar LAZRAK,omar.lazrak@company.ma,True,Architecte Solution,admin,DCom,2026-04-01
+EMP01180,Amine EL OUAFI,amine.el.ouafi@company.ma,True,Comptable Principal,user,DProd,2025-10-04
+EMP01181,Meryem ALAOUI,meryem.alaoui@company.ma,True,Contrôleur de Gestion,user,DAF,2026-02-16
+EMP01182,Rachid BENNANI,rachid.bennani@company.ma,True,Data Analyst,user,DRH,2025-11-17
+EMP01183,Mourad EL OUAZZANI,mourad.el.ouazzani@company.ma,True,Responsable IT,user,DCom,2025-12-02
+EMP01185,Hamid EL AMRANI,hamid.el.amrani@company.ma,True,DevOps Engineer,user,DLogistique,2026-01-11
+EMP01186,Imane BENSOUDA,imane.bensouda@company.ma,True,Responsable Logistique,user,DProd,2025-07-13
+EMP01187,Meryem BERRADA,meryem.berrada@company.ma,True,Manager Opérationnel,user,DCom,2026-02-13
+EMP01188,Ahmed FASSI,,True,Manager Opérationnel,user,DSI,
+EMP01189,Redouane BENKIRANE,redouane.benkirane@company.ma,True,Responsable Logistique,user,Direction Générale,2025-11-10
+EMP01190,Hamid TAHIRI,hamid.tahiri@company.ma,True,Chargé Communication,user,DJuridique,2025-11-20
+EMP01191,Fatima LAZRAK,fatima.lazrak@company.ma,True,Développeur Senior,user,DRH,2026-02-01
+EMP01192,Sara TAHIRI,sara.tahiri@company.ma,True,Analyste RH,user,DAF,
+EMP01193,Karim EL OUAZZANI,karim.el.ouazzani@company.ma,True,Juriste,user,Direction Générale,2026-03-01
+EMP01195,Jamal BENSOUDA,jamal.bensouda@company.ma,True,Responsable Logistique,user,DProd,2026-04-06
+EMP01196,Hassan EL AMRANI,hassan.el.amrani@company.ma,True,Responsable IT,user,Direction Générale,2025-08-19
+EMP01197,Houda BENKIRANE,houda.benkirane@company.ma,True,Responsable Sécurité,user,DLogistique,2025-12-30
+EMP01198,Soumia BENSOUDA,soumia.bensouda@company.ma,True,Développeur Senior,user,DCom,2026-04-16
+EMP01199,Samir BELKACEM,samir.belkacem@company.ma,True,Développeur Senior,user,DJuridique,2026-03-07
+EMP01200,Ibtissam SOUSSI_OLD,ibtissam.soussi@company.ma,True,Juriste,user,Direction Générale,2026-04-19
+EMP01201,Imane TAZI,imane.tazi@company.ma,True,Responsable Logistique,user,DRH,2026-04-08
+EMP01202,Youssef EL OUAFI,youssef.el.ouafi@company.ma,True,Responsable Logistique,user,DAF,2026-02-26
+EMP01204,Soumia BENKIRANE,soumia.benkirane@company.ma,True,Assistant RH,user,DAF,2025-11-25
+EMP01205,Omar BENHADDOU,omar.benhaddou@company.ma,True,DBA,user,DCom,2025-06-06
+EMP01206,Samir FILALI,samir.filali@company.ma,True,Directeur Adjoint,user,DAF,2025-12-09
+EMP01207,Samir BERRADA,samir.berrada@company.ma,True,Développeur Senior,user,DProd,2026-01-27
+EMP01208,Mustapha BELKACEM,mustapha.belkacem@company.ma,True,Directeur Adjoint,admin,Direction Générale,2026-03-23
+EMP01209,Zineb EL HAJJI,zineb.el.hajji@company.ma,True,Data Analyst,user,DAF,2026-04-19
+EMP01210,Fatima EL IDRISSI,fatima.el.idrissi@company.ma,True,DevOps Engineer,user,DCom,2025-11-09
+EMP01211,Aicha CHRAIBI,aicha.chraibi@company.ma,True,Juriste,user,DProd,2026-04-27
+EMP01212,Khadija BAKKALI,khadija.bakkali@company.ma,True,Responsable IT,user,DProd,2026-02-21
+EMP01213,Ahmed EL HAJJI,ahmed.el.hajji@company.ma,True,Comptable Principal,user,,2026-03-18
+EMP01214,Amine GHALI,amine.ghali@company.ma,True,Manager Opérationnel,user,DSI,2025-05-10
+EMP01215,Najat BENKIRANE,najat.benkirane@company.ma,True,Assistant RH,user,DRH,2026-02-26
+EMP01216,Samir EL AMRANI,samir.el.amrani@company.ma,True,Contrôleur de Gestion,user,DJuridique,2025-11-28
+EMP01217,Bilal EL IDRISSI,bilal.el.idrissi@company.ma,True,Analyste RH,user,DCom,2025-12-25
+EMP01218,Ahmed BENHADDOU,ahmed.benhaddou@company.ma,True,Analyste RH,user,DLogistique,2026-04-14
+EMP01219,Omar EL HAJJI,omar.el.hajji@company.ma,True,DBA,user,DJuridique,2026-01-24
+EMP01220,Rachid SEFRIOUI,rachid.sefrioui@company.ma,True,Juriste,admin,DRH,2025-11-09
+EMP01221,Bilal BENSOUDA,bilal.bensouda@company.ma,True,DevOps Engineer,user,DProd,2026-01-03
+EMP01222,Ghita SOUSSI,ghita.soussi@company.ma,True,Responsable Logistique,user,DLogistique,2026-02-23
+EMP01224,Aicha EL AMRANI,aicha.el.amrani@company.ma,True,Assistant RH,user,Direction Générale,2026-04-23
+EMP01225,Omar BOUAZZA,omar.bouazza@company.ma,True,Ingénieur Système,admin,DCom,2025-12-23
+EMP01226,Jamal ALAOUI,jamal.alaoui@company.ma,True,Chef de Projet,user,DRH,2026-02-10
+EMP01227,Omar BOUAZZA,omar.bouazza@company.ma,True,Auditeur Interne,user,DAF,2025-12-31
+EMP01228,Ibtissam CHERKAOUI,ibtissam.cherkaoui@company.ma,True,Juriste,user,DLogistique,2026-02-04
+EMP01231,Omar BAKKALI,omar.bakkali@company.ma,True,Auditeur Interne,user,DCom,2025-06-12
+EMP01232,Mustapha LAZRAK,mustapha.lazrak@company.ma,True,DevOps Engineer,user,DLogistique,
+EMP01233,Bilal LAZRAK,bilal.lazrak@company.ma,True,Data Analyst,admin,DSI,
+EMP01234,Mustapha EL OUAZZANI,mustapha.el.ouazzani@company.ma,True,Ingénieur Système,user,DCom,2026-01-04
+EMP01235,Mohamed MERNISSI,mohamed.mernissi@company.ma,True,Comptable Principal,user,DLogistique,2026-04-16
+EMP01236,Ahmed ALAOUI,,True,Chef de Projet,user,Direction Générale,2026-03-20
+EMP01237,Imane BOUAZZA,,True,Juriste,user,DJuridique,2025-11-12
+EMP01238,Abderrahim KETTANI,abderrahim.kettani@company.ma,True,Data Analyst,user,DAF,2026-01-14
+EMP01239,Bilal BENNANI,bilal.bennani@company.ma,True,Analyste RH,user,DCom,2025-11-16
+EMP01240,Rim EL HAJJI,rim.el.hajji@company.ma,False,DBA,user,DLogistique,2025-04-07
+EMP01241,Mehdi KETTANI,mehdi.kettani@company.ma,True,Contrôleur de Gestion,user,DLogistique,2026-02-01
+EMP01242,Abdelhamid ZIANI,,True,Analyste RH,user,Direction Générale,2026-03-11
+EMP01243,Khalid MERNISSI,khalid.mernissi@company.ma,True,Juriste,admin,DCom,2025-11-08
+EMP01244,Samir TAHIRI,samir.tahiri@company.ma,True,Assistant RH,user,DJuridique,2025-12-30
+EMP01245,Salma EL AMRANI,salma.el.amrani@company.ma,True,Juriste,user,DAF,2026-01-24
+EMP01246,Redouane FILALI,redouane.filali@company.ma,True,Auditeur Interne,user,DCom,2025-10-20
+EMP01247,Rim BENKIRANE,,True,Chef de Projet,admin,DLogistique,2025-08-02
+EMP01248,Nadia EL MANSOURI,nadia.el.mansouri@company.ma,True,Responsable Sécurité,user,DCom,2025-08-22
+EMP01249,Rachid BERRADA,rachid.berrada@company.ma,True,Juriste,user,DCom,2026-04-07
+EMP01250,Issam EL AMRANI,issam.el.amrani@company.ma,True,Assistant RH,user,DAF,2025-11-17
+EMP01251,Hamid EL AMRANI,hamid.el.amrani@company.ma,True,Architecte Solution,user,DSI,2025-12-14
+EMP01252,Hamid BAKKALI,hamid.bakkali@company.ma,True,Data Analyst,user,DLogistique,2026-01-02
+EMP01253,Khalid BENHADDOU,khalid.benhaddou@company.ma,True,Chef de Projet,user,DLogistique,2025-12-02
+EMP01254,Laila NACIRI,laila.naciri@company.ma,True,Ingénieur Système,user,DAF,2025-10-25
+EMP01255,Sara EL HAJJI,sara.el.hajji@company.ma,True,Analyste RH,user,DAF,2026-02-01
+EMP01256,Samir EL IDRISSI,samir.el.idrissi@company.ma,True,Auditeur Interne,user,DLogistique,2026-02-13
+EMP01257,Issam EL OUAFI,issam.el.ouafi@company.ma,True,Responsable IT,user,DJuridique,2025-09-19
+EMP01258,Sara MERNISSI,sara.mernissi@company.ma,True,Chef de Projet,user,DAF,2026-02-23
+EMP01259,Houda MERNISSI,houda.mernissi@company.ma,True,Juriste,user,DCom,2026-04-24
+EMP01260,Ahmed BERRADA,ahmed.berrada@company.ma,True,Comptable Principal,user,DJuridique,2026-01-25
+EMP01261,Ibtissam BELKACEM,ibtissam.belkacem@company.ma,True,Développeur Senior,user,DCom,2026-01-23
+EMP01262,Sara FILALI,sara.filali@company.ma,True,Directeur Adjoint,user,DCom,2026-04-14
+EMP01263,Redouane EL OUAZZANI_OLD,redouane.el.ouazzani@company.ma,True,Directeur Adjoint,user,DRH,2026-04-15
+EMP01264,Hassan BAKKALI,hassan.bakkali@company.ma,True,Architecte Solution,user,DAF,2026-01-23
+OLD09001,Samir EL MANSOURI,samir.el.mansouri@company.ma,True,Responsable Logistique,user,DAF,2025-05-14
+OLD09002,Mohamed TAZI,mohamed.tazi@company.ma,True,Responsable IT,user,DJuridique,2025-09-09
+OLD09003,Fatima TAZI,fatima.tazi@company.ma,False,Assistant RH,user,DLogistique,2025-06-01
+OLD09004,Imane NACIRI,imane.naciri@company.ma,True,Architecte Solution,user,Direction Générale,2025-06-03
+OLD09005,Rim SOUSSI,rim.soussi@company.ma,False,DBA,user,Direction Générale,2025-10-04
+OLD09006,Mustapha BOUAZZA,mustapha.bouazza@company.ma,True,DevOps Engineer,user,DSI,2025-09-27
+OLD09007,Samir BERRADA,samir.berrada@company.ma,True,Chef de Projet,admin,DCom,2025-09-20
+OLD09008,Ghita TAZI,ghita.tazi@company.ma,True,Data Analyst,admin,DJuridique,2025-04-23
+OLD09009,Soumia TAHIRI,soumia.tahiri@company.ma,True,Data Analyst,admin,DProd,2025-03-27
+OLD09010,Jamal EL AMRANI,jamal.el.amrani@company.ma,True,DBA,user,DProd,2025-09-03
+OLD09011,Hamid TAHIRI,hamid.tahiri@company.ma,False,Comptable Principal,admin,DCom,2025-07-02
+OLD09012,Khalid BENHADDOU,khalid.benhaddou@company.ma,True,Comptable Principal,user,DCom,2025-04-03
+DUP08001,Karim ZIANI,ali.benhaddou@company.ma,True,Chef de Projet,user,DAF,2026-04-22
+DUP08002,Hassan BAKKALI,omar.alaoui@company.ma,True,Technicien Réseau,user,DCom,2026-04-04
+DUP08003,Bilal BENSOUDA,rachid.benali@company.ma,True,Technicien Réseau,user,DCom,2026-03-29

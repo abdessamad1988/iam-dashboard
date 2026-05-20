@@ -1,0 +1,261 @@
+﻿matricule,nom,prenom,fonction,entite_affectation,site,action,mois
+EMP01001,BENALI,Mustapha,Chargé Communication,DRH,Tanger,RAS,2026-04
+EMP01002,TAZI,Mourad,Assistant RH,DRH,Rabat,RAS,2025-08
+EMP01003,BENALI,Ibtissam,Directeur Adjoint,DLogistique,Rabat,RAS,2025-12
+EMP01004,TAHIRI,Mohamed,Comptable Principal,DProd,Marrakech,RAS,2025-07
+EMP01005,LAZRAK,Tariq,Développeur Senior,DRH,Marrakech,modifier,2025-10
+EMP01006,TAHIRI,Youssef,Architecte Solution,DLogistique,Casablanca,RAS,2026-01
+EMP01007,BENHADDOU,Bilal,Auditeur Interne,DRH,Casablanca,modifier,2026-03
+EMP01008,FASSI,Rachid,Chargé Communication,DLogistique,Marrakech,modifier,2025-12
+EMP01009,MERNISSI,Laila,Auditeur Interne,DCom,Tanger,RAS,2026-03
+EMP01010,SOUSSI,Laila,Responsable Sécurité,DAF,Agadir,RAS,2025-11
+EMP01011,EL OUAZZANI,Ibtissam,Chargé Communication,DSI,Rabat,modifier,2025-05
+EMP01012,BELKACEM,Mustapha,Chef de Projet,DProd,Rabat,RAS,2026-03
+EMP01013,SEFRIOUI,Imane,Responsable IT,Direction Générale,Tanger,RAS,2026-01
+EMP01014,BENKIRANE,Mourad,Assistant RH,DLogistique,Marrakech,RAS,2025-08
+EMP01015,ALAOUI,Hasnaa,DBA,DSI,Casablanca,RAS,2025-07
+EMP01016,TAHIRI,Rim,Data Analyst,DLogistique,Fès,RAS,2025-12
+EMP01017,CHERKAOUI,Mohamed,Développeur Senior,DCom,Tanger,RAS,2025-10
+EMP01018,BOUAZZA,Laila,Architecte Solution,,Tanger,modifier,2026-04
+EMP01019,NACIRI,Nadia,Contrôleur de Gestion,DCom,Tanger,modifier,2026-01
+EMP01020,ALAOUI,Samir,Comptable Principal,DSI,Fès,RAS,2025-10
+EMP01021,BERRADA,Samir,Responsable Logistique,Direction Générale,Fès,RAS,2025-06
+EMP01022,ZIANI,Hassan,Responsable Sécurité,DAF,Tanger,ajouter,2025-12
+EMP01023,BENNANI,Abdelhamid,Contrôleur de Gestion,DLogistique,Rabat,RAS,2026-01
+EMP01024,FILALI,Samira,Responsable Logistique,DProd,Agadir,RAS,2026-01
+EMP01025,EL IDRISSI,Aicha,Chef de Projet,Direction Générale,Fès,RAS,2025-08
+EMP01026,FILALI,Khalid,Chargé Communication,DSI,Marrakech,ajouter,2025-06
+EMP01027,BENSOUDA,Redouane,Directeur Adjoint,DJuridique,Rabat,RAS,2025-12
+EMP01028,CHRAIBI,Omar,Développeur Senior,DProd,Agadir,RAS,2025-11
+EMP01029,BENKIRANE,Khalid,Développeur Senior,DProd,Casablanca,RAS,2025-08
+EMP01030,CHERKAOUI,Sara,Responsable IT,DCom,Agadir,modifier,2025-08
+EMP01031,TAZI,Sara,Responsable Sécurité,DSI,Casablanca,RAS,2025-08
+EMP01032,ZIANI,Jamal,Directeur Adjoint,DSI,Rabat,modifier,2025-11
+EMP01033,BELKACEM,Abdelhamid,Architecte Solution,DJuridique,Rabat,ajouter,2025-08
+EMP01034,EL OUAFI,Mourad,Responsable Sécurité,DProd,Casablanca,modifier,2025-05
+EMP01035,NACIRI,Ghita,Comptable Principal,DRH,Rabat,RAS,2025-06
+EMP01036,EL HAJJI,Meryem,Manager Opérationnel,Direction Générale,Fès,RAS,2026-02
+EMP01037,TAZI,Najat,DevOps Engineer,DProd,Marrakech,ajouter,2025-08
+EMP01038,KETTANI,Meryem,Technicien Réseau,DCom,Agadir,RAS,2025-10
+EMP01039,EL OUAZZANI,Hassan,Ingénieur Système,DRH,Casablanca,RAS,2026-01
+EMP01040,BENSOUDA,Fatima,Auditeur Interne,Direction Générale,Marrakech,modifier,2025-09
+EMP01041,EL MANSOURI,Soumia,Responsable Logistique,DSI,Tanger,modifier,2026-01
+EMP01042,EL HAJJI,Omar,Responsable IT,DRH,Tanger,modifier,2026-01
+EMP01043,FASSI,Issam,Directeur Adjoint,Direction Générale,Tanger,modifier,2026-03
+EMP01044,NACIRI,Redouane,Technicien Réseau,DSI,Casablanca,RAS,2026-03
+EMP01045,BENSOUDA,Youssef,Ingénieur Système,DAF,Tanger,RAS,2025-09
+EMP01046,EL AMRANI,Ibtissam,Assistant RH,DRH,Casablanca,modifier,2026-04
+EMP01047,CHERKAOUI,Youssef,Auditeur Interne,DAF,Agadir,RAS,2025-07
+EMP01048,MERNISSI,Youssef,Auditeur Interne,Direction Générale,Tanger,ajouter,2025-06
+EMP01049,CHERKAOUI,Najat,Data Analyst,Direction Générale,Rabat,desactiver,2025-07
+EMP01050,BENALI,Nadia,Juriste,DLogistique,Tanger,RAS,2026-04
+EMP01051,BENSOUDA,Laila,Développeur Senior,DSI,Agadir,RAS,2025-08
+EMP01052,EL OUAZZANI,Imane,Auditeur Interne,Direction Générale,Rabat,modifier,2025-05
+EMP01053,BELKACEM,Tariq,Technicien Réseau,DCom,Marrakech,RAS,2026-03
+EMP01054,EL HAJJI,Soumia,Juriste,DRH,Marrakech,RAS,2025-07
+EMP01055,BENSOUDA,Youssef,Développeur Senior,DProd,Tanger,RAS,2025-10
+EMP01056,NACIRI,Ali,Manager Opérationnel,Direction Générale,Marrakech,RAS,2025-05
+EMP01057,BENALI,Ghita,Responsable Sécurité,Direction Générale,Marrakech,RAS,2025-11
+EMP01058,EL HAJJI,Tariq,Data Analyst,DRH,Tanger,ajouter,2025-09
+EMP01059,EL HAJJI,Najat,Juriste,DCom,Fès,RAS,2025-07
+EMP01060,EL HAJJI,Salma,Comptable Principal,DCom,Agadir,modifier,2026-01
+EMP01061,FASSI,Karim,Directeur Adjoint,DProd,Agadir,RAS,2025-12
+EMP01062,CHRAIBI,Hasnaa,DBA,DAF,Tanger,RAS,2025-06
+EMP01063,EL HAJJI,Bilal,Juriste,Direction Générale,Tanger,modifier,2025-09
+EMP01064,CHRAIBI,Khadija,Ingénieur Système,DJuridique,Fès,modifier,2025-06
+EMP01065,SEFRIOUI,Abderrahim,Directeur Adjoint,DLogistique,Agadir,RAS,2025-11
+EMP01066,BENHADDOU,Mohamed,Développeur Senior,Direction Générale,Rabat,modifier,2026-04
+EMP01067,EL OUAFI,Ibtissam,Chargé Communication,DRH,Agadir,RAS,2025-07
+EMP01068,EL HAJJI,Ghita,Responsable Sécurité,DJuridique,Fès,RAS,2026-04
+EMP01069,BOUAZZA,Ibtissam,Architecte Solution,DJuridique,Agadir,RAS,2025-09
+EMP01070,EL MANSOURI,Mustapha,Contrôleur de Gestion,Direction Générale,Marrakech,RAS,2025-12
+EMP01071,FASSI,Meryem,Technicien Réseau,DRH,Rabat,ajouter,2025-07
+EMP01072,FILALI,Khadija,Directeur Adjoint,DLogistique,Marrakech,modifier,2026-01
+EMP01073,EL OUAFI,Zineb,Assistant RH,DSI,Fès,RAS,2025-11
+EMP01074,MERNISSI,Mehdi,Manager Opérationnel,DLogistique,Fès,RAS,2026-04
+EMP01075,TAHIRI,Issam,Chargé Communication,DCom,Agadir,RAS,2025-12
+EMP01076,KETTANI,Houda,Comptable Principal,DAF,Fès,ajouter,2026-01
+EMP01077,BELKACEM,Mourad,DevOps Engineer,DRH,Tanger,ajouter,2025-11
+EMP01078,EL AMRANI,Nadia,Analyste RH,DProd,Rabat,modifier,2025-12
+EMP01079,LAZRAK,Salma,Technicien Réseau,DLogistique,Marrakech,desactiver,2025-06
+EMP01080,BENKIRANE,Soumia,Analyste RH,DProd,Rabat,RAS,2026-03
+EMP01081,BENHADDOU,Youssef,Ingénieur Système,Direction Générale,Casablanca,ajouter,2026-02
+EMP01082,ALAOUI,Jamal,Développeur Senior,Direction Générale,Agadir,modifier,2026-04
+EMP01083,MERNISSI,Laila,Data Analyst,DRH,Rabat,modifier,2025-09
+EMP01084,BENALI,Mehdi,DevOps Engineer,DLogistique,Agadir,modifier,2026-04
+EMP01085,GHALI,Meryem,Développeur Senior,DCom,Tanger,modifier,2026-02
+EMP01086,TAHIRI,Abderrahim,Analyste RH,DLogistique,Tanger,RAS,2025-10
+EMP01087,BENHADDOU,Tariq,Ingénieur Système,DJuridique,Casablanca,ajouter,2025-11
+EMP01088,BENHADDOU,Imane,Responsable IT,DCom,Fès,RAS,2026-01
+EMP01089,EL AMRANI,Rim,DevOps Engineer,Direction Générale,Casablanca,RAS,2025-09
+EMP01090,EL IDRISSI,Imane,DevOps Engineer,DLogistique,Marrakech,RAS,2025-05
+EMP01091,KETTANI,Nadia,DBA,DCom,Marrakech,RAS,2025-09
+EMP01092,FILALI,Mustapha,Responsable Sécurité,,Rabat,RAS,2025-06
+EMP01093,BOUAZZA,Redouane,Responsable Sécurité,DJuridique,Tanger,modifier,2026-04
+EMP01094,TAHIRI,Ahmed,Chef de Projet,DLogistique,Tanger,RAS,2025-08
+EMP01095,GHALI,Samir,DBA,DProd,Agadir,desactiver,2026-04
+EMP01096,MERNISSI,Imane,Technicien Réseau,Direction Générale,Casablanca,RAS,2026-04
+EMP01097,BERRADA,Soumia,Comptable Principal,DJuridique,Marrakech,modifier,2026-04
+EMP01098,LAZRAK,Ghita,Data Analyst,DRH,Rabat,RAS,2025-09
+EMP01099,BENNANI,Mehdi,Ingénieur Système,DAF,Marrakech,modifier,2025-05
+EMP01100,CHERKAOUI,Karim,Responsable IT,DJuridique,Casablanca,RAS,2025-05
+EMP01101,ZIANI,Jamal,Architecte Solution,DSI,Marrakech,RAS,2025-12
+EMP01102,TAZI,Houda,DBA,DSI,Rabat,modifier,2025-07
+EMP01103,FASSI,Rachid,Chargé Communication,DLogistique,Fès,RAS,2026-02
+EMP01104,EL IDRISSI,Ghita,Manager Opérationnel,DJuridique,Marrakech,RAS,2026-02
+EMP01105,FASSI,Abderrahim,Data Analyst,DRH,Rabat,RAS,2026-03
+EMP01106,EL HAJJI,Rachid,Comptable Principal,DRH,Rabat,modifier,2025-05
+EMP01107,FILALI,Issam,DBA,Direction Générale,Marrakech,RAS,2026-04
+EMP01108,BAKKALI,Imane,Chef de Projet,DCom,Tanger,modifier,2026-02
+EMP01109,EL OUAZZANI,Samira,Assistant RH,Direction Générale,Tanger,RAS,2025-07
+EMP01110,EL MANSOURI,Khadija,Chef de Projet,DCom,Fès,RAS,2026-04
+EMP01111,EL OUAZZANI,Karim,Architecte Solution,DCom,Tanger,RAS,2025-11
+EMP01112,NACIRI,Soumia,DBA,DSI,Agadir,RAS,2026-04
+EMP01113,BENSOUDA,Ahmed,Chef de Projet,DSI,Tanger,desactiver,2025-09
+EMP01114,LAZRAK,Nadia,DBA,DJuridique,Marrakech,RAS,2025-07
+EMP01115,BOUAZZA,Redouane,Chef de Projet,DLogistique,Marrakech,RAS,2025-10
+EMP01116,BAKKALI,Laila,Juriste,DJuridique,Marrakech,RAS,2026-03
+EMP01117,EL MANSOURI,Ibtissam,Analyste RH,DProd,Marrakech,RAS,2025-10
+EMP01118,LAZRAK,Houda,Contrôleur de Gestion,DSI,Tanger,modifier,2026-01
+EMP01119,EL OUAFI,Samira,Contrôleur de Gestion,DJuridique,Tanger,RAS,2025-12
+EMP01120,CHRAIBI,Mustapha,Responsable Sécurité,DCom,Agadir,RAS,2026-04
+EMP01121,BENALI,Issam,Chargé Communication,DCom,Fès,RAS,2025-05
+EMP01122,TAZI,Aicha,Développeur Senior,DRH,Tanger,RAS,2025-07
+EMP01123,FILALI,Karim,Contrôleur de Gestion,DLogistique,Agadir,RAS,2025-12
+EMP01124,CHERKAOUI,Khadija,Manager Opérationnel,DAF,Casablanca,modifier,2025-09
+EMP01125,BAKKALI,Najat,Juriste,DCom,Casablanca,RAS,2025-09
+EMP01126,EL MANSOURI,Mourad,DevOps Engineer,DJuridique,Rabat,RAS,2025-12
+EMP01127,MERNISSI,Tariq,Responsable Sécurité,DLogistique,Agadir,RAS,2025-10
+EMP01128,FILALI,Meryem,DevOps Engineer,DLogistique,Casablanca,RAS,2025-10
+EMP01129,FILALI,Salma,Manager Opérationnel,DAF,Agadir,RAS,2025-05
+EMP01130,GHALI,Tariq,Développeur Senior,DJuridique,Casablanca,modifier,2026-01
+EMP01131,BENALI,Khadija,Assistant RH,DAF,Casablanca,RAS,2025-12
+EMP01132,BENSOUDA,Tariq,Data Analyst,DRH,Marrakech,RAS,2026-03
+EMP01133,BELKACEM,Amine,DBA,DSI,Fès,RAS,2025-06
+EMP01134,EL HAJJI,Karim,Chargé Communication,DLogistique,Casablanca,modifier,2026-03
+EMP01135,BERRADA,Sara,Comptable Principal,DSI,Casablanca,RAS,2025-10
+EMP01136,FASSI,Hamid,Auditeur Interne,Direction Générale,Fès,RAS,2025-11
+EMP01137,TAHIRI,Nadia,Comptable Principal,DLogistique,Fès,RAS,2026-03
+EMP01138,EL OUAZZANI,Mourad,Responsable IT,DCom,Agadir,modifier,2025-09
+EMP01139,SEFRIOUI,Imane,Responsable Logistique,DAF,Casablanca,RAS,2025-12
+EMP01140,GHALI,Mehdi,Assistant RH,DJuridique,Marrakech,RAS,2025-08
+EMP01141,BAKKALI,Jamal,Développeur Senior,DProd,Fès,RAS,2025-09
+EMP01142,FASSI,Ahmed,Manager Opérationnel,DSI,Fès,RAS,2026-04
+EMP01143,SEFRIOUI,Karim,Chargé Communication,DProd,Rabat,RAS,2026-03
+EMP01144,BENSOUDA,Fatima,Développeur Senior,DSI,Marrakech,modifier,2025-12
+EMP01145,MERNISSI,Fatima,Chef de Projet,DProd,Tanger,ajouter,2025-11
+EMP01146,ALAOUI,Soumia,Auditeur Interne,DCom,Rabat,modifier,2025-09
+EMP01147,ZIANI,Karim,Juriste,DJuridique,Casablanca,RAS,2025-07
+EMP01148,EL IDRISSI,Houda,Responsable Sécurité,DLogistique,Casablanca,RAS,2025-09
+EMP01149,EL AMRANI,Samir,Technicien Réseau,DProd,Casablanca,RAS,2026-03
+EMP01150,BENALI,Bilal,Responsable Sécurité,Direction Générale,Tanger,modifier,2025-06
+EMP01151,EL AMRANI,Mehdi,Assistant RH,DSI,Casablanca,RAS,2025-09
+EMP01152,BERRADA,Omar,Chargé Communication,DAF,Agadir,RAS,2025-12
+EMP01153,BENKIRANE,Soumia,Assistant RH,DAF,Agadir,desactiver,2026-03
+EMP01154,ZIANI,Bilal,Assistant RH,DCom,Casablanca,ajouter,2026-04
+EMP01155,EL AMRANI,Sara,Chargé Communication,DRH,Tanger,desactiver,2025-10
+EMP01156,BENHADDOU,Hamid,Analyste RH,Direction Générale,Casablanca,RAS,2025-12
+EMP01157,CHRAIBI,Issam,Ingénieur Système,DProd,Rabat,ajouter,2025-07
+EMP01158,CHRAIBI,Hassan,Responsable Sécurité,Direction Générale,Rabat,RAS,2025-10
+EMP01159,TAHIRI,Issam,Ingénieur Système,DAF,Rabat,RAS,2026-01
+EMP01160,BENNANI,Ali,Ingénieur Système,DProd,Rabat,modifier,2026-02
+EMP01161,BENNANI,Abdelhamid,Analyste RH,DLogistique,Fès,desactiver,2025-06
+EMP01162,ZIANI,Sara,Auditeur Interne,DRH,Agadir,RAS,2026-01
+EMP01163,SOUSSI,Youssef,Contrôleur de Gestion,DSI,Casablanca,modifier,2025-12
+EMP01164,BOUAZZA,Omar,DBA,DJuridique,Casablanca,RAS,2025-06
+EMP01165,ALAOUI,Hassan,Responsable IT,DProd,Agadir,desactiver,2026-02
+EMP01166,EL AMRANI,Hasnaa,Data Analyst,DRH,Tanger,RAS,2026-03
+EMP01167,CHERKAOUI,Zineb,Assistant RH,Direction Générale,Agadir,RAS,2025-10
+EMP01168,BELKACEM,Najat,Développeur Senior,DProd,Tanger,RAS,2025-09
+EMP01169,ALAOUI,Jamal,Chef de Projet,DRH,Casablanca,desactiver,2025-11
+EMP01170,BENKIRANE,Samir,Responsable IT,DProd,Tanger,ajouter,2025-06
+EMP01171,BAKKALI,Rim,Analyste RH,DCom,Marrakech,RAS,2025-06
+EMP01172,CHRAIBI,Khadija,DBA,DRH,Marrakech,RAS,2026-01
+EMP01173,LAZRAK,Mustapha,DevOps Engineer,DLogistique,Fès,desactiver,2026-02
+EMP01174,BENHADDOU,Ibtissam,Ingénieur Système,DCom,Casablanca,RAS,2025-07
+EMP01175,LAZRAK,Mehdi,Juriste,DAF,Rabat,modifier,2026-02
+EMP01176,TAZI,Khadija,Ingénieur Système,Direction Générale,Agadir,RAS,2025-11
+EMP01177,BENNANI,Samir,Responsable Logistique,DRH,Casablanca,RAS,2025-07
+EMP01178,SOUSSI,Khalid,Chef de Projet,DLogistique,Agadir,modifier,2026-02
+EMP01179,BENSOUDA,Zineb,Contrôleur de Gestion,DLogistique,Casablanca,RAS,2025-09
+EMP01180,GHALI,Redouane,Contrôleur de Gestion,DSI,Rabat,RAS,2025-11
+EMP01181,EL OUAFI,Mohamed,Directeur Adjoint,Direction Générale,Rabat,RAS,2025-09
+EMP01182,BERRADA,Mohamed,DBA,DAF,Rabat,modifier,2025-11
+EMP01183,EL IDRISSI,Hasnaa,Responsable Sécurité,DProd,Casablanca,RAS,2025-11
+EMP01184,EL OUAFI,Rim,Ingénieur Système,DRH,Marrakech,RAS,2026-02
+EMP01185,BELKACEM,Najat,Responsable Logistique,DSI,Marrakech,RAS,2025-07
+EMP01186,SOUSSI,Imane,Auditeur Interne,DRH,Rabat,RAS,2025-11
+EMP01187,NACIRI,Rachid,Manager Opérationnel,DProd,Rabat,RAS,2025-10
+EMP01188,TAZI,Hasnaa,Développeur Senior,Direction Générale,Marrakech,RAS,2025-10
+EMP01189,EL MANSOURI,Khadija,Chargé Communication,DCom,Rabat,RAS,2025-07
+EMP01190,LAZRAK,Hassan,Comptable Principal,DJuridique,Agadir,RAS,2026-02
+EMP01191,EL AMRANI,Abderrahim,Data Analyst,DProd,Rabat,RAS,2025-12
+EMP01192,EL AMRANI,Mehdi,Technicien Réseau,DProd,Fès,ajouter,2025-06
+EMP01193,EL AMRANI,Youssef,Analyste RH,DCom,Casablanca,desactiver,2026-03
+EMP01194,BAKKALI,Rachid,Data Analyst,DLogistique,Agadir,RAS,2026-02
+EMP01195,TAHIRI,Youssef,Architecte Solution,Direction Générale,Marrakech,RAS,2026-02
+EMP01196,ALAOUI,Khalid,Architecte Solution,DProd,Tanger,RAS,2025-06
+EMP01197,BENNANI,Youssef,Chargé Communication,DJuridique,Fès,RAS,2026-01
+EMP01198,MERNISSI,Samir,Responsable Logistique,DProd,Tanger,RAS,2026-02
+EMP01199,BENHADDOU,Tariq,Chef de Projet,DLogistique,Marrakech,ajouter,2025-09
+EMP01200,EL HAJJI,Issam,Responsable IT,DAF,Marrakech,RAS,2025-09
+EMP01201,FILALI,Houda,Responsable IT,DRH,Marrakech,RAS,2026-01
+EMP01202,TAHIRI,Tariq,Responsable IT,DRH,Tanger,desactiver,2026-03
+EMP01203,MERNISSI,Ahmed,Auditeur Interne,Direction Générale,Marrakech,RAS,2025-12
+EMP01204,ALAOUI,Khadija,Chef de Projet,DRH,Fès,modifier,2026-01
+EMP01205,SEFRIOUI,Ghita,Analyste RH,DAF,Fès,RAS,2025-11
+EMP01206,BENNANI,Bilal,Comptable Principal,DSI,Agadir,modifier,2025-10
+EMP01207,EL IDRISSI,Sara,Data Analyst,DJuridique,Rabat,RAS,2026-01
+EMP01208,TAHIRI,Jamal,Directeur Adjoint,DJuridique,Agadir,modifier,2025-09
+EMP01209,NACIRI,Ghita,Assistant RH,Direction Générale,Fès,RAS,2025-07
+EMP01210,EL OUAFI,Jamal,Auditeur Interne,DRH,Tanger,RAS,2026-01
+EMP01211,FASSI,Rachid,Comptable Principal,DAF,Agadir,RAS,2025-06
+EMP01212,EL IDRISSI,Sara,Auditeur Interne,DLogistique,Casablanca,RAS,2025-11
+EMP01213,EL IDRISSI,Salma,Chef de Projet,DSI,Marrakech,RAS,2025-06
+EMP01214,BENHADDOU,Tariq,Responsable IT,DCom,Agadir,RAS,2026-04
+EMP01215,LAZRAK,Jamal,Architecte Solution,DRH,Casablanca,RAS,2025-09
+EMP01216,ALAOUI,Ibtissam,Data Analyst,DRH,Marrakech,modifier,2025-08
+EMP01217,EL OUAFI,Meryem,Assistant RH,DJuridique,Casablanca,desactiver,2025-06
+EMP01218,ZIANI,Issam,Responsable Sécurité,,Fès,RAS,2026-02
+EMP01219,ALAOUI,Karim,Assistant RH,,Marrakech,modifier,2025-08
+EMP01220,BENNANI,Rachid,Contrôleur de Gestion,DRH,Fès,RAS,2026-01
+EMP01221,NACIRI,Ibtissam,Ingénieur Système,DJuridique,Casablanca,RAS,2026-03
+EMP01222,MERNISSI,Abdelhamid,Ingénieur Système,DRH,Marrakech,desactiver,2025-08
+EMP01223,BENHADDOU,Omar,DevOps Engineer,DProd,Rabat,RAS,2025-05
+EMP01224,KETTANI,Nadia,Architecte Solution,DJuridique,Tanger,desactiver,2025-07
+EMP01225,TAZI,Imane,Analyste RH,DSI,Rabat,RAS,2025-05
+EMP01226,FASSI,Hasnaa,Manager Opérationnel,DJuridique,Marrakech,desactiver,2025-05
+EMP01227,CHRAIBI,Karim,Auditeur Interne,DSI,Tanger,RAS,2025-10
+EMP01228,TAHIRI,Samir,Assistant RH,DJuridique,Agadir,modifier,2025-10
+EMP01229,ZIANI,Redouane,Auditeur Interne,DCom,Casablanca,RAS,2026-04
+EMP01230,BOUAZZA,Issam,Comptable Principal,DProd,Casablanca,RAS,2025-06
+EMP01231,FASSI,Mehdi,Architecte Solution,DLogistique,Rabat,desactiver,2026-04
+EMP01232,EL AMRANI,Youssef,Auditeur Interne,DLogistique,Marrakech,RAS,2026-03
+EMP01233,EL OUAFI,Hassan,Manager Opérationnel,DAF,Casablanca,RAS,2025-07
+EMP01234,EL HAJJI,Sara,Analyste RH,Direction Générale,Tanger,RAS,2025-10
+EMP01235,GHALI,Youssef,Data Analyst,DJuridique,Marrakech,desactiver,2025-10
+EMP01236,TAZI,Abderrahim,Responsable IT,DLogistique,Marrakech,RAS,2026-03
+EMP01237,BERRADA,Ahmed,Comptable Principal,DLogistique,Fès,modifier,2025-06
+EMP01238,BENSOUDA,Sara,Directeur Adjoint,DCom,Tanger,modifier,2025-12
+EMP01239,ALAOUI,Hassan,Architecte Solution,DJuridique,Casablanca,modifier,2026-03
+EMP01240,KETTANI,Hamid,Chef de Projet,DCom,Marrakech,RAS,2025-07
+EMP01241,EL OUAZZANI,Nadia,Auditeur Interne,DRH,Rabat,RAS,2025-07
+EMP01242,ZIANI,Ahmed,Auditeur Interne,DProd,Agadir,modifier,2026-01
+EMP01243,SEFRIOUI,Rachid,Chef de Projet,DJuridique,Fès,modifier,2025-11
+EMP01244,EL MANSOURI,Abderrahim,Chef de Projet,DProd,Tanger,RAS,2025-06
+EMP01245,EL HAJJI,Ghita,Auditeur Interne,DAF,Rabat,RAS,2025-11
+EMP01246,BAKKALI,Khalid,Développeur Senior,DCom,Rabat,RAS,2025-07
+EMP01247,FILALI,Aicha,Auditeur Interne,DCom,Casablanca,desactiver,2025-09
+EMP01248,CHERKAOUI,Mustapha,Responsable IT,DRH,Fès,modifier,2026-03
+EMP01249,GHALI,Khadija,Comptable Principal,DProd,Fès,modifier,2025-05
+EMP01250,BENALI,Rachid,Analyste RH,DCom,Tanger,RAS,2025-08
+EMP01251,BOUAZZA,Bilal,Ingénieur Système,DCom,Tanger,RAS,2025-09
+EMP01252,TAHIRI,Houda,Responsable Logistique,DSI,Rabat,RAS,2025-12
+EMP01253,EL AMRANI,Zineb,Juriste,DProd,Tanger,RAS,2025-10
+EMP01254,BAKKALI,Hamid,Manager Opérationnel,DProd,Fès,RAS,2026-01
+EMP01255,EL IDRISSI,Imane,Développeur Senior,Direction Générale,Rabat,modifier,2025-06
+EMP01256,BELKACEM,Bilal,Assistant RH,DAF,Marrakech,ajouter,2026-02
+EMP01257,CHRAIBI,Laila,DBA,DJuridique,Agadir,RAS,2025-09
+EMP01258,TAZI,Houda,Contrôleur de Gestion,Direction Générale,Rabat,RAS,2026-02
+EMP01259,EL OUAFI,Karim,DBA,DJuridique,Marrakech,desactiver,2026-01
+EMP01260,BERRADA,Rim,Responsable IT,DProd,Agadir,ajouter,2025-10
