@@ -168,6 +168,10 @@ def _gen_rh_current(rh_m1: pd.DataFrame) -> pd.DataFrame:
 
 def _gen_ad(rh: pd.DataFrame) -> pd.DataFrame:
     rows = []
+    # Choisir ~20 % des matricules comme prestataires (email v-...)
+    mats = list(rh['matricule'])
+    presta_set = set(random.sample(mats, k=max(1, int(len(mats) * 0.20))))
+
     for _, row in rh.iterrows():
         enabled    = random.random() > 0.04
         last_logon = _rdate(400, 91) if (not enabled or random.random() < 0.10) else _rdate(89, 0)
@@ -181,6 +185,9 @@ def _gen_ad(rh: pd.DataFrame) -> pd.DataFrame:
 
         fn = _slug(row['prenom'])
         ln = _slug(row['nom'])
+        is_presta = row['matricule'] in presta_set
+        # Prestataire : v-prenom.nom@company.ma  |  Agent : prenom.nom@company.ma
+        email_prefix = 'v-' if is_presta else ''
 
         rows.append({
             'employeeID':      row['matricule'],
@@ -191,7 +198,7 @@ def _gen_ad(rh: pd.DataFrame) -> pd.DataFrame:
             'lastLogon':       last_logon.strftime('%Y-%m-%d'),
             'lockedOut':       random.random() < 0.05,
             'passwordExpired': random.random() < 0.08,
-            'mail':            f"{fn}.{ln}@company.ma" if random.random() > 0.04 else '',
+            'mail':            f"{email_prefix}{fn}.{ln}@company.ma" if random.random() > 0.04 else '',
             'timestamp':       _rdate(365, 0).strftime('%Y-%m-%d %H:%M:%S'),
         })
     return pd.DataFrame(rows)
