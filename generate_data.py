@@ -186,8 +186,10 @@ def _gen_ad(rh: pd.DataFrame) -> pd.DataFrame:
         fn = _slug(row['prenom'])
         ln = _slug(row['nom'])
         is_presta = row['matricule'] in presta_set
-        # Prestataire : v-prenom.nom@company.ma  |  Agent : prenom.nom@company.ma
+        # Agent : i.nom@company.ma  |  Prestataire : v-i.nom@company.ma
+        # où i = première lettre du prénom
         email_prefix = 'v-' if is_presta else ''
+        email_local  = f"{fn[0]}.{ln}"
 
         rows.append({
             'employeeID':      row['matricule'],
@@ -198,7 +200,7 @@ def _gen_ad(rh: pd.DataFrame) -> pd.DataFrame:
             'lastLogon':       last_logon.strftime('%Y-%m-%d'),
             'lockedOut':       random.random() < 0.05,
             'passwordExpired': random.random() < 0.08,
-            'mail':            f"{email_prefix}{fn}.{ln}@company.ma" if random.random() > 0.04 else '',
+            'mail':            f"{email_prefix}{email_local}@company.ma" if random.random() > 0.04 else '',
             'timestamp':       _rdate(365, 0).strftime('%Y-%m-%d %H:%M:%S'),
         })
     return pd.DataFrame(rows)
@@ -234,10 +236,13 @@ def _gen_ldap(rh: pd.DataFrame) -> pd.DataFrame:
         if random.random() < 0.04:
             cn = cn + '_OLD'
 
+        # Agent : i.nom@company.ma  |  pas de prestataire dans LDAP (même format que AD)
+        email_local = f"{fn[0]}.{ln}"
+
         rows.append({
             'uid':         row['matricule'],
             'cn':          cn,
-            'mail':        f"{fn}.{ln}@company.ma" if random.random() > 0.05 else '',
+            'mail':        f"{email_local}@company.ma" if random.random() > 0.05 else '',
             'enabled':     random.random() > 0.03,
             'description': row['fonction'],
             'role':        'admin' if random.random() < 0.06 else 'user',
