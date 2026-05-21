@@ -1,246 +1,246 @@
 ﻿employeeID,displayName,department,title,enabled,lastLogon,lockedOut,passwordExpired,mail,timestamp
-EMP01001,Ali BENHADDOU,DAF,Ingénieur Système,True,2026-04-02,False,False,a.benhaddou@company.ma,2026-02-09 15:38:38
-EMP01002,Omar ALAOUI,DLogistique,Responsable Sécurité,True,2026-05-13,False,False,o.alaoui@company.ma,2026-05-10 05:01:20
-EMP01003,Rachid BENALI,DSI,Directeur Adjoint,True,2026-04-12,False,False,r.benali@company.ma,2025-12-09 01:02:48
-EMP01004,Soumia CHRAIBI,DCom,Ingénieur Système,True,2026-03-17,False,False,s.chraibi@company.ma,2025-06-26 19:23:05
-EMP01005,Laila LAZRAK,DAF,Assistant RH,True,2026-04-18,False,False,l.lazrak@company.ma,2025-12-26 09:52:11
-EMP01006,Tariq LAZRAK,DRH_ANCIEN,Développeur Senior,True,2026-03-01,False,False,t.lazrak@company.ma,2025-10-30 07:26:20
-EMP01007,Hamid BAKKALI,DProd,Data Analyst,True,2025-12-16,False,False,v-h.bakkali@company.ma,2025-10-26 05:37:32
-EMP01008,Soumia EL AMRANI,DLogistique,Développeur Senior,True,2025-05-09,False,False,s.el.amrani@company.ma,2026-04-21 02:11:30
-EMP01009,Karim CHERKAOUI,DProd,Data Analyst,True,2026-05-16,False,False,k.cherkaoui@company.ma,2025-08-23 09:43:44
-EMP01010,Hassan CHRAIBI,DCom,Analyste RH,True,2026-03-17,False,False,h.chraibi@company.ma,2026-04-22 13:49:09
-EMP01011,Aicha BAKKALI,DJuridique,Développeur Senior,True,2026-04-18,False,False,a.bakkali@company.ma,2026-04-27 22:08:52
-EMP01013,Hassan BENSOUDA,DJuridique,Data Analyst,True,2025-09-16,False,False,h.bensouda@company.ma,2025-11-29 17:19:01
-EMP01014,Salma EL AMRANI,Direction Générale,Technicien Réseau,True,2026-04-27,False,False,s.el.amrani@company.ma,2026-02-28 01:26:07
-EMP01016,Hassan BENSOUDA,DProd,Directeur Adjoint,True,2026-02-25,False,False,h.bensouda@company.ma,2025-12-03 08:34:15
-EMP01017,Redouane BENHADDOU,DAF,Manager Opérationnel,True,2026-05-12,False,False,r.benhaddou@company.ma,2026-03-26 05:32:52
-EMP01018,Fatima BENSOUDA,DCom,Chargé Communication,True,2026-03-29,False,False,f.bensouda@company.ma,2025-07-13 17:50:25
-EMP01019,Rim GHALI,Direction Générale,DevOps Engineer,True,2026-04-12,False,False,v-r.ghali@company.ma,2025-07-23 15:11:51
-EMP01020,Redouane NACIRI,DRH,Chef de Projet,True,2026-05-14,False,False,r.naciri@company.ma,2025-09-14 22:49:10
-EMP01021,Laila BENHADDOU,DLogistique,Ingénieur Système,True,2025-08-23,False,False,l.benhaddou@company.ma,2026-02-12 17:36:01
-EMP01022,Imane SOUSSI,DSI,Contrôleur de Gestion,True,2026-03-19,False,False,i.soussi@company.ma,2026-01-03 03:24:00
-EMP01023,Ali BENKIRANE,DProd,Responsable Sécurité,True,2026-05-02,False,False,,2026-02-17 13:53:49
-EMP01024,Rim FASSI,DCom,Comptable Principal,True,2025-08-16,False,False,r.fassi@company.ma,2025-11-20 16:15:01
-EMP01025,Nadia LAZRAK,DCom,Contrôleur de Gestion,True,2026-02-27,False,False,v-n.lazrak@company.ma,2025-10-14 20:49:49
-EMP01026,Issam NACIRI,DAF,Directeur Adjoint,True,2026-05-21,False,False,i.naciri@company.ma,2026-03-29 15:09:12
-EMP01027,Ghita LAZRAK,DJuridique,Ingénieur Système,True,2026-03-12,False,False,g.lazrak@company.ma,2026-03-17 00:26:02
-EMP01028,Samir BERRADA,DCom,Responsable Logistique,True,2026-04-30,False,False,s.berrada@company.ma,2025-09-10 06:57:37
-EMP01031,Soumia EL OUAZZANI,DLogistique,Directeur Adjoint,True,2026-03-30,False,False,s.el.ouazzani@company.ma,2025-06-06 20:39:25
-EMP01032,Samir BENHADDOU,DJuridique,Architecte Solution,True,2026-03-27,False,False,s.benhaddou@company.ma,2025-09-03 19:42:32
-EMP01033,Aicha EL IDRISSI,Direction Générale,Chef de Projet,True,2026-03-06,False,True,a.el.idrissi@company.ma,2025-08-17 03:58:51
-EMP01034,Mohamed EL IDRISSI,DSI,Chef de Projet,True,2025-09-24,False,False,m.el.idrissi@company.ma,2026-05-17 08:24:20
-EMP01035,Youssef TAZI,Direction Générale,Juriste,True,2026-05-18,False,False,y.tazi@company.ma,2026-01-27 08:46:25
-EMP01036,Redouane EL HAJJI,DJuridique,Directeur Adjoint,True,2026-04-25,False,False,v-r.el.hajji@company.ma,2025-07-28 12:17:27
-EMP01037,Jamal TAHIRI,DRH,Assistant RH,True,2026-02-25,False,False,j.tahiri@company.ma,2026-05-16 03:53:04
-EMP01038,Hamid BOUAZZA,DSI,Assistant RH,True,2025-08-10,False,False,v-h.bouazza@company.ma,2025-12-18 12:29:47
-EMP01039,Omar BENHADDOU,DProd,Analyste RH,True,2026-03-06,False,False,o.benhaddou@company.ma,2025-11-15 17:57:42
-EMP01040,Samira EL IDRISSI,DAF,Directeur Adjoint,True,2026-02-22,False,False,v-s.el.idrissi@company.ma,2026-04-19 00:25:57
-EMP01041,Mustapha BENNANI,DRH,Architecte Solution,True,2026-04-04,False,False,m.bennani@company.ma,2025-09-24 04:45:18
-EMP01042,Ibtissam TAHIRI,DSI,Développeur Senior,True,2025-09-12,False,False,i.tahiri@company.ma,2025-05-25 23:09:27
-EMP01043,Meryem EL OUAZZANI,DJuridique,Comptable Principal,True,2026-03-16,False,False,m.el.ouazzani@company.ma,2026-05-04 03:40:36
-EMP01044,Houda BAKKALI,DRH,Analyste RH,True,2026-04-29,False,False,h.bakkali@company.ma,2025-07-12 09:31:12
-EMP01045,Imane BENSOUDA,DRH,Responsable Logistique,True,2026-04-21,False,False,v-i.bensouda@company.ma,2026-04-07 03:45:04
-EMP01046,Karim CHRAIBI,DSI,Directeur Adjoint,True,2026-05-05,False,False,k.chraibi@company.ma,2026-05-12 17:54:33
-EMP01047,Khalid KETTANI,DAF,Analyste RH,True,2025-11-15,False,False,k.kettani@company.ma,2025-11-09 02:49:16
-EMP01048,Rachid NACIRI,DRH,Comptable Principal,True,2026-04-19,False,True,r.naciri@company.ma,2025-10-29 20:36:23
-EMP01049,Meryem BAKKALI,Direction Générale,Manager Opérationnel,True,2025-10-13,True,False,,2025-08-14 03:33:22
-EMP01050,Youssef SOUSSI,DProd,Data Analyst,True,2025-08-28,False,False,y.soussi@company.ma,2025-11-20 20:35:29
-EMP01051,Amine CHRAIBI,DAF,Chargé Communication,False,2025-09-22,False,False,a.chraibi@company.ma,2025-10-13 22:47:51
-EMP01052,Mehdi BENHADDOU,DRH,Architecte Solution,True,2026-05-16,False,False,m.benhaddou@company.ma,2025-07-12 04:07:25
-EMP01053,Bilal EL AMRANI,DRH,DevOps Engineer,True,2026-03-10,False,False,b.el.amrani@company.ma,2026-03-11 04:40:18
-EMP01054,Hasnaa CHRAIBI,DProd,Technicien Réseau,False,2025-08-10,False,False,h.chraibi@company.ma,2025-11-16 09:54:27
-EMP01055,Meryem SEFRIOUI,DJuridique,Auditeur Interne,True,2026-05-17,False,False,m.sefrioui@company.ma,2026-04-29 17:46:39
-EMP01058,Ali BENSOUDA,DAF,Développeur Senior (Ancien),True,2026-02-28,False,False,v-a.bensouda@company.ma,2026-03-05 02:54:43
-EMP01059,Issam FASSI,Direction Générale,Directeur Adjoint,True,2026-04-14,False,False,i.fassi@company.ma,2026-04-03 08:14:52
-EMP01060,Abdelhamid BENHADDOU,DSI,Contrôleur de Gestion,True,2026-04-18,False,False,a.benhaddou@company.ma,2026-02-01 22:11:40
-EMP01061,Rim BENHADDOU,DProd,Technicien Réseau,True,2026-03-20,False,False,r.benhaddou@company.ma,2025-11-03 10:22:00
-EMP01062,Abdelhamid BENHADDOU,DLogistique,Comptable Principal,True,2025-08-28,False,False,a.benhaddou@company.ma,2025-07-18 11:22:40
-EMP01063,Ali BENALI,DAF,Chef de Projet,True,2026-04-14,False,False,a.benali@company.ma,2026-05-11 18:34:28
-EMP01064,Samir EL OUAFI,DLogistique,DevOps Engineer,True,2026-04-02,False,False,v-s.el.ouafi@company.ma,2026-05-14 16:20:21
-EMP01065,Mehdi EL OUAFI,DSI,Auditeur Interne,True,2026-04-14,False,False,m.el.ouafi@company.ma,2026-04-25 19:18:06
-EMP01066,Meryem CHRAIBI,DLogistique,Développeur Senior,True,2026-04-19,False,False,m.chraibi@company.ma,2026-05-09 13:00:30
-EMP01067,Khadija BENKIRANE,DAF,Chargé Communication,False,2025-06-29,False,False,v-k.benkirane@company.ma,2026-01-11 05:59:58
-EMP01068,Nadia BENALI,Direction Générale,Juriste,True,2026-03-16,False,False,n.benali@company.ma,2025-08-31 02:29:59
-EMP01069,Meryem BAKKALI,Direction Générale,Technicien Réseau,True,2026-04-07,False,False,m.bakkali@company.ma,2025-10-12 11:47:21
-EMP01070,Youssef BAKKALI,DLogistique,DBA (Ancien),True,2025-07-11,False,False,y.bakkali@company.ma,2025-09-13 03:57:37
-EMP01071,Aicha FASSI,Direction Générale,Chargé Communication,True,2026-03-30,False,False,a.fassi@company.ma,2026-03-13 23:36:20
-EMP01072,Mustapha KETTANI,DCom,Chef de Projet,True,2026-04-24,False,False,m.kettani@company.ma,2025-12-19 18:44:59
-EMP01074,Abdelhamid BERRADA,DCom,Comptable Principal,True,2026-04-15,False,False,a.berrada@company.ma,2026-04-04 04:50:36
-EMP01075,Issam BERRADA,DProd,Assistant RH,True,2026-04-02,False,False,i.berrada@company.ma,2025-11-14 14:53:13
-EMP01076,Hasnaa SOUSSI,Direction Générale,Développeur Senior,True,2026-04-27,False,True,h.soussi@company.ma,2025-10-28 06:31:18
-EMP01077,Rim EL OUAFI,Direction Générale,Ingénieur Système,False,2025-11-08,False,False,r.el.ouafi@company.ma,2025-11-04 17:48:07
-EMP01078,Hassan BOUAZZA,DRH,Juriste,True,2026-03-03,False,False,h.bouazza@company.ma,2025-10-06 04:11:57
-EMP01080,Karim BELKACEM,DLogistique,Responsable Sécurité,True,2026-03-29,False,False,k.belkacem@company.ma,2026-04-08 02:40:00
-EMP01081,Nadia BELKACEM,DLogistique,Data Analyst (Ancien),True,2026-05-15,False,False,n.belkacem@company.ma,2026-01-23 19:29:28
-EMP01082,Mohamed EL MANSOURI,DLogistique,Responsable Logistique,False,2025-06-22,False,False,m.el.mansouri@company.ma,2025-06-27 13:24:20
-EMP01083,Amine SOUSSI,Direction Générale,Architecte Solution,True,2026-03-15,False,False,v-a.soussi@company.ma,2025-06-19 09:32:34
-EMP01084,Laila ZIANI,DProd,Chef de Projet (Ancien),True,2026-04-15,False,False,l.ziani@company.ma,2026-01-04 12:08:31
-EMP01085,Meryem EL MANSOURI,Direction Générale,Responsable Logistique,True,2026-05-12,False,False,v-m.el.mansouri@company.ma,2025-10-19 15:46:16
-EMP01086,Youssef BENALI,DRH,Chargé Communication,True,2026-03-30,False,False,y.benali@company.ma,2025-10-02 20:12:47
-EMP01087,Abderrahim BOUAZZA,DLogistique,Directeur Adjoint,True,2026-05-13,False,False,a.bouazza@company.ma,2025-09-25 06:37:11
-EMP01088,Meryem BELKACEM,DSI,Responsable IT,False,2025-07-31,False,False,v-m.belkacem@company.ma,2025-08-01 15:46:15
-EMP01090,Meryem CHERKAOUI,DProd,Développeur Senior,True,2026-03-01,False,True,m.cherkaoui@company.ma,2025-10-16 02:25:31
-EMP01091,Ibtissam NACIRI,DJuridique,Data Analyst,True,2026-05-04,False,False,v-i.naciri@company.ma,2026-03-13 04:49:57
-EMP01092,Hasnaa EL MANSOURI,DJuridique,Assistant RH,True,2026-03-11,False,False,h.el.mansouri@company.ma,2025-12-22 18:16:18
-EMP01093,Jamal BENKIRANE,Direction Générale,Architecte Solution (Ancien),True,2026-03-25,False,False,j.benkirane@company.ma,2025-12-24 19:49:38
-EMP01094,Ghita BENSOUDA,DCom,DBA,True,2026-04-18,False,False,g.bensouda@company.ma,2025-07-17 04:46:48
-EMP01095,Karim TAZI,DProd,Chargé Communication,True,2026-04-03,False,False,k.tazi@company.ma,2025-11-30 01:46:57
-EMP01096,Fatima TAZI,DAF,Responsable IT (Ancien),True,2026-03-03,False,False,f.tazi@company.ma,2026-04-21 08:50:22
-EMP01097,Hassan CHRAIBI,DJuridique,Assistant RH,True,2026-05-11,False,False,h.chraibi@company.ma,2026-02-15 13:09:46
-EMP01098,Zineb EL OUAFI,DSI,Assistant RH,True,2026-04-01,False,False,v-z.el.ouafi@company.ma,2025-08-23 16:07:37
-EMP01099,Jamal BELKACEM,DCom,Ingénieur Système,True,2026-05-08,False,False,j.belkacem@company.ma,2026-02-10 06:35:28
-EMP01100,Najat BAKKALI,Direction Générale,Responsable Sécurité,True,2026-01-23,False,False,n.bakkali@company.ma,2026-04-04 13:52:52
-EMP01101,Mustapha EL IDRISSI,DProd,Assistant RH,True,2026-04-27,False,False,m.el.idrissi@company.ma,2026-03-23 23:17:50
-EMP01103,Ahmed CHERKAOUI,DRH,Manager Opérationnel,True,2026-04-20,False,False,v-a.cherkaoui@company.ma,2025-12-18 15:42:34
-EMP01104,Rim BENHADDOU,DAF,Responsable IT,False,2025-09-03,False,False,r.benhaddou@company.ma,2025-08-25 22:14:57
-EMP01105,Salma BENSOUDA,DProd,Responsable IT,True,2026-04-25,False,False,v-s.bensouda@company.ma,2025-09-27 07:16:26
-EMP01106,Salma LAZRAK,DLogistique,Technicien Réseau,True,2026-02-22,False,False,s.lazrak@company.ma,2025-08-15 08:44:02
-EMP01107,Rachid EL MANSOURI,,DBA,True,2026-05-07,False,False,r.el.mansouri@company.ma,2025-09-13 06:11:48
-EMP01108,Hamid EL OUAFI,Direction Générale,Chargé Communication,True,2026-03-04,False,False,h.el.ouafi@company.ma,2025-12-09 21:42:40
-EMP01109,Samira EL IDRISSI,Direction Générale,Ingénieur Système,True,2026-04-05,False,True,s.el.idrissi@company.ma,2025-05-30 07:04:38
-EMP01110,Ali ZIANI,DJuridique,DevOps Engineer,True,2026-04-28,False,False,a.ziani@company.ma,2025-09-27 01:36:57
-EMP01112,Omar FASSI,DCom,DevOps Engineer,True,2026-03-16,False,False,o.fassi@company.ma,2026-03-03 21:31:35
-EMP01113,Salma EL HAJJI,DLogistique,Manager Opérationnel (Ancien),True,2026-04-20,False,False,v-s.el.hajji@company.ma,2026-03-26 15:54:06
-EMP01114,Meryem GHALI,DCom,Développeur Senior,True,2026-05-17,False,False,m.ghali@company.ma,2025-11-27 14:53:24
-EMP01115,Ali SOUSSI,DProd,DevOps Engineer,True,2026-04-20,False,False,a.soussi@company.ma,2025-07-27 12:38:30
-EMP01116,Samir BOUAZZA,DProd,Chef de Projet,True,2026-03-22,False,False,s.bouazza@company.ma,2025-07-05 22:36:42
-EMP01117,Najat BAKKALI,DProd,DBA,True,2026-04-12,False,False,n.bakkali@company.ma,2025-12-16 05:18:24
-EMP01118,Imane SEFRIOUI,DCom,Responsable IT,True,2026-03-10,False,False,i.sefrioui@company.ma,2025-06-11 08:15:43
-EMP01119,Soumia TAHIRI,DCom,DBA,True,2026-04-09,False,False,s.tahiri@company.ma,2026-02-11 10:24:15
-EMP01120,Meryem BAKKALI,DJuridique,Chef de Projet,True,2026-04-05,True,False,m.bakkali@company.ma,2025-09-05 06:23:01
-EMP01121,Imane LAZRAK,DLogistique,DevOps Engineer,True,2026-05-08,False,False,i.lazrak@company.ma,2025-07-04 21:03:07
-EMP01122,Redouane BENALI,Direction Générale,Juriste,True,2026-03-29,False,False,r.benali@company.ma,2025-11-02 15:17:52
-EMP01123,Abdelhamid TAHIRI,DCom,Juriste,True,2026-05-05,True,False,a.tahiri@company.ma,2025-06-24 07:18:33
-EMP01124,Ghita BENALI,DLogistique,Directeur Adjoint,True,2026-05-07,False,False,g.benali@company.ma,2026-01-13 12:37:16
-EMP01126,Ahmed TAHIRI,DLogistique,Chef de Projet,True,2026-03-07,False,False,v-a.tahiri@company.ma,2026-01-08 07:41:08
-EMP01127,Mehdi EL IDRISSI,DProd,DevOps Engineer,True,2026-04-30,False,False,m.el.idrissi@company.ma,2026-04-03 02:36:20
-EMP01128,Ibtissam BENKIRANE,DJuridique,Juriste,True,2026-05-08,False,False,i.benkirane@company.ma,2025-07-12 01:20:14
-EMP01129,Abdelhamid FASSI,Direction Générale,Chargé Communication,True,2026-05-12,False,False,a.fassi@company.ma,2026-01-20 08:12:30
-EMP01130,Soumia BERRADA,DJuridique,Comptable Principal,True,2026-04-24,False,False,s.berrada@company.ma,2026-04-27 05:45:33
-EMP01131,Mourad BENKIRANE,DRH,Contrôleur de Gestion,True,2026-03-25,False,False,m.benkirane@company.ma,2026-01-23 01:42:41
-EMP01133,Fatima CHERKAOUI,DSI,Technicien Réseau,True,2026-02-27,False,False,v-f.cherkaoui@company.ma,2025-09-23 21:53:24
-EMP01134,Fatima FASSI,DSI,DBA,True,2026-04-18,False,False,f.fassi@company.ma,2025-06-08 08:47:16
-EMP01136,Jamal BENSOUDA,DLogistique_ANCIEN,Développeur Senior,True,2026-04-07,False,False,j.bensouda@company.ma,2025-11-03 15:56:50
-EMP01137,Abderrahim TAZI,DJuridique,Analyste RH,True,2026-03-06,False,False,a.tazi@company.ma,2025-10-08 12:04:12
-EMP01138,Ali EL IDRISSI,Direction Générale,Responsable Sécurité,True,2026-05-20,False,False,a.el.idrissi@company.ma,2025-11-04 05:17:28
-EMP01139,Sara BELKACEM,DLogistique,Architecte Solution,True,2026-02-21,False,False,s.belkacem@company.ma,2025-05-24 15:43:02
-EMP01140,Bilal GHALI,DRH,Analyste RH,True,2026-05-16,False,False,b.ghali@company.ma,2025-06-30 07:15:33
-EMP01141,Zineb BENHADDOU,DAF,Technicien Réseau,True,2026-03-22,False,False,v-z.benhaddou@company.ma,2025-07-16 00:03:21
-EMP01142,Ibtissam BENNANI,DLogistique,Chef de Projet,True,2026-04-21,False,False,i.bennani@company.ma,2025-10-28 09:58:59
-EMP01143,Issam FILALI,Direction Générale,DBA,True,2026-03-14,False,False,i.filali@company.ma,2025-11-04 06:45:43
-EMP01144,Karim FILALI,Direction Générale,Architecte Solution,True,2026-03-20,False,False,k.filali@company.ma,2026-02-13 16:16:20
-EMP01145,Mourad TAHIRI,Direction Générale,Directeur Adjoint,False,2025-12-28,False,False,v-m.tahiri@company.ma,2026-01-27 11:18:27
-EMP01146,Mustapha ALAOUI,DAF,Responsable IT,True,2026-03-16,False,False,m.alaoui@company.ma,2025-05-26 05:02:29
-EMP01147,Abderrahim SOUSSI,DJuridique,Responsable Logistique,True,2026-03-06,False,False,a.soussi@company.ma,2025-11-20 10:44:36
-EMP01148,Houda FASSI,DJuridique,Technicien Réseau (Ancien),True,2026-02-23,False,False,h.fassi@company.ma,2025-10-23 01:57:53
-EMP01149,Issam TAZI,DProd,Analyste RH,True,2026-04-11,False,False,i.tazi@company.ma,2025-07-19 19:39:13
-EMP01150,Ahmed BENSOUDA,Direction Générale,Chef de Projet,True,2026-04-12,False,False,a.bensouda@company.ma,2026-03-13 22:20:00
-EMP01151,Mustapha EL MANSOURI,DAF,DevOps Engineer,True,2026-02-27,False,False,m.el.mansouri@company.ma,2026-05-15 14:43:27
-EMP01153,Redouane EL MANSOURI,DLogistique,Chef de Projet,True,2026-04-21,False,False,,2025-07-13 19:28:31
-EMP01155,Houda EL HAJJI,DRH,Responsable Sécurité,True,2026-03-27,False,False,v-h.el.hajji@company.ma,2026-03-20 21:10:19
-EMP01156,Amine BENSOUDA,DLogistique,Développeur Senior (Ancien),True,2026-03-04,False,False,a.bensouda@company.ma,2026-02-22 03:54:09
-EMP01157,Mohamed EL MANSOURI,DSI,Chargé Communication,True,2026-04-10,False,False,v-m.el.mansouri@company.ma,2025-08-28 14:25:23
-EMP01158,Samir NACIRI,DJuridique,Data Analyst,True,2026-04-27,False,True,v-s.naciri@company.ma,2025-08-24 11:57:13
-EMP01159,Mustapha CHRAIBI,DCom,Responsable Sécurité,True,2026-03-08,True,False,m.chraibi@company.ma,2026-01-31 04:09:59
-EMP01160,Redouane SEFRIOUI,Direction Générale,Développeur Senior,True,2026-04-02,False,False,r.sefrioui@company.ma,2026-02-07 00:25:09
-EMP01161,Mehdi BENNANI,,Responsable Sécurité (Ancien),True,2026-05-10,False,False,m.bennani@company.ma,2026-03-17 22:22:03
-EMP01162,Aicha TAZI,DRH,Développeur Senior,True,2026-04-16,False,False,a.tazi@company.ma,2025-08-23 17:36:56
-EMP01163,Khadija EL MANSOURI,DCom,DBA,True,2026-04-10,False,False,v-k.el.mansouri@company.ma,2025-07-18 23:56:57
-EMP01164,Mustapha FILALI,DJuridique_ANCIEN,Assistant RH,False,2025-09-22,False,False,,2025-09-28 15:09:25
-EMP01165,Ibtissam EL AMRANI,DAF,Responsable IT,False,2025-12-27,False,False,i.el.amrani@company.ma,2025-10-31 13:32:10
-EMP01166,Najat BENSOUDA,DCom,Responsable Sécurité,True,2025-06-10,False,False,n.bensouda@company.ma,2026-02-17 16:56:07
-EMP01167,Mehdi FASSI,DJuridique,DevOps Engineer,True,2026-05-05,False,False,m.fassi@company.ma,2025-12-28 01:02:30
-EMP01168,Soumia EL AMRANI,DLogistique,DBA,True,2026-03-06,False,False,s.el.amrani@company.ma,2026-03-03 02:33:15
-EMP01169,Amine EL OUAZZANI,Direction Générale,Directeur Adjoint,True,2026-03-16,False,False,a.el.ouazzani@company.ma,2025-07-24 08:39:17
-EMP01170,Aicha BELKACEM,DJuridique,Assistant RH,True,2026-03-05,False,False,a.belkacem@company.ma,2025-07-07 02:14:39
-EMP01172,Fatima EL OUAFI,DAF,Contrôleur de Gestion,True,2026-03-23,True,False,f.el.ouafi@company.ma,2025-06-25 22:44:05
-EMP01173,Sara BAKKALI,Direction Générale,Développeur Senior,True,2026-03-31,False,False,,2025-10-25 13:46:39
-EMP01175,Abdelhamid ZIANI,DLogistique,Juriste,True,2026-04-15,False,False,,2026-04-09 00:11:59
-EMP01176,Tariq TAZI,DJuridique,Responsable Sécurité,True,2026-03-12,False,False,t.tazi@company.ma,2025-08-30 00:57:07
-EMP01177,Redouane FILALI,DRH,Responsable Sécurité,True,2025-05-11,False,False,r.filali@company.ma,2026-03-31 15:56:38
-EMP01178,Karim BENHADDOU,DSI,Chargé Communication,True,2025-10-12,False,False,k.benhaddou@company.ma,2025-10-17 03:51:56
-EMP01179,Omar LAZRAK,DCom,Architecte Solution,True,2026-03-14,False,False,o.lazrak@company.ma,2026-01-16 03:12:46
-EMP01180,Amine EL OUAFI,DProd,Comptable Principal,True,2026-04-02,False,False,a.el.ouafi@company.ma,2026-01-26 02:31:28
-EMP01181,Meryem ALAOUI,DAF,Contrôleur de Gestion,True,2026-04-23,True,False,m.alaoui@company.ma,2025-11-23 19:33:06
-EMP01182,Rachid BENNANI,DRH,Data Analyst,True,2026-05-21,False,True,v-r.bennani@company.ma,2025-06-01 21:41:48
-EMP01183,Mourad EL OUAZZANI,DCom,Responsable IT,True,2026-02-27,False,False,m.el.ouazzani@company.ma,2025-07-22 12:22:47
-EMP01184,Mohamed BENSOUDA,DAF,Architecte Solution,True,2026-03-19,False,False,m.bensouda@company.ma,2025-12-31 02:24:29
-EMP01185,Hamid EL AMRANI,DLogistique,DevOps Engineer,True,2026-03-27,False,False,h.el.amrani@company.ma,2026-03-04 04:12:25
-EMP01186,Imane BENSOUDA,DLogistique,Responsable Logistique,True,2026-02-24,False,False,i.bensouda@company.ma,2026-04-11 11:08:55
-EMP01187,Meryem BERRADA,DCom,Manager Opérationnel,True,2026-04-10,True,True,m.berrada@company.ma,2025-05-29 06:18:40
-EMP01188,Ahmed FASSI,DSI,Manager Opérationnel,True,2025-12-11,False,False,a.fassi@company.ma,2025-09-24 04:38:06
-EMP01189,Redouane BENKIRANE,Direction Générale,Responsable Logistique,True,2026-04-30,False,False,v-r.benkirane@company.ma,2025-10-13 14:41:14
-EMP01190,Hamid TAHIRI,DRH,Chargé Communication,True,2026-04-19,False,False,h.tahiri@company.ma,2026-03-25 01:04:34
-EMP01191,Fatima LAZRAK,DRH,Développeur Senior,True,2026-03-24,False,False,f.lazrak@company.ma,2025-08-16 05:17:25
-EMP01192,Sara TAHIRI,DAF,Analyste RH,True,2026-03-30,False,False,s.tahiri@company.ma,2025-12-29 23:46:34
-EMP01193,Karim EL OUAZZANI,Direction Générale_ANCIEN,Juriste,True,2026-04-17,False,False,v-k.el.ouazzani@company.ma,2025-12-27 03:52:45
-EMP01195,Jamal BENSOUDA,DProd,Responsable Logistique,True,2026-03-25,False,False,j.bensouda@company.ma,2025-06-24 23:33:18
-EMP01196,Hassan EL AMRANI,Direction Générale,Responsable IT,True,2026-05-03,False,False,h.el.amrani@company.ma,2025-08-29 04:47:39
-EMP01197,Houda BENKIRANE,DLogistique,Responsable Sécurité,True,2026-02-26,False,False,h.benkirane@company.ma,2025-10-15 14:25:33
-EMP01198,Soumia BENSOUDA,DCom,Développeur Senior,True,2026-05-12,False,False,s.bensouda@company.ma,2025-06-19 03:35:24
-EMP01199,Samir BELKACEM,DJuridique,Développeur Senior,True,2025-04-24,False,False,v-s.belkacem@company.ma,2026-03-01 19:09:51
-EMP01200,Ibtissam SOUSSI,Direction Générale,Juriste,True,2026-03-02,False,False,i.soussi@company.ma,2026-01-30 08:53:25
-EMP01201,Imane TAZI,DRH,Responsable Logistique,True,2026-03-08,False,False,v-i.tazi@company.ma,2026-05-15 23:32:24
-EMP01202,Youssef EL OUAFI,DAF,Responsable Logistique,True,2026-03-20,False,False,v-y.el.ouafi@company.ma,2025-06-11 16:35:27
-EMP01203,Soumia EL IDRISSI,DProd,Responsable IT,True,2026-03-22,False,False,v-s.el.idrissi@company.ma,2026-01-24 08:56:13
-EMP01204,Soumia BENKIRANE,DAF,Assistant RH,True,2025-05-31,False,False,v-s.benkirane@company.ma,2025-12-18 20:11:27
-EMP01205,Omar BENHADDOU,DCom,DBA,True,2026-03-30,False,False,o.benhaddou@company.ma,2025-09-02 19:44:53
-EMP01206,Samir FILALI,DAF,Directeur Adjoint,True,2026-04-30,False,False,s.filali@company.ma,2026-01-05 13:13:03
-EMP01207,Samir BERRADA,DProd,Développeur Senior,True,2025-09-13,False,False,s.berrada@company.ma,2026-04-28 22:10:42
-EMP01208,Mustapha BELKACEM,Direction Générale,Directeur Adjoint,True,2026-03-31,False,False,m.belkacem@company.ma,2026-02-08 15:39:06
-EMP01209,Zineb EL HAJJI,DSI,Data Analyst,True,2026-05-06,False,False,z.el.hajji@company.ma,2025-06-07 02:20:13
-EMP01210,Fatima EL IDRISSI,DCom,DevOps Engineer,True,2026-04-04,False,False,f.el.idrissi@company.ma,2026-02-27 21:39:36
-EMP01211,Aicha CHRAIBI,DSI,Juriste,True,2025-09-14,False,False,a.chraibi@company.ma,2025-05-26 07:48:28
-EMP01212,Khadija BAKKALI,DProd,Responsable IT,True,2026-04-13,False,False,k.bakkali@company.ma,2026-05-21 10:44:29
-EMP01213,Ahmed EL HAJJI,,Comptable Principal,True,2026-05-08,False,False,a.el.hajji@company.ma,2025-10-17 06:47:34
-EMP01214,Amine GHALI,DSI_ANCIEN,Manager Opérationnel,True,2026-04-08,False,False,a.ghali@company.ma,2025-06-05 14:02:53
-EMP01215,Najat BENKIRANE,DRH,Assistant RH,True,2026-04-29,False,False,,2026-04-03 23:09:28
-EMP01216,Samir EL AMRANI,DJuridique,Contrôleur de Gestion,True,2026-05-14,False,False,s.el.amrani@company.ma,2026-03-06 08:34:32
-EMP01217,Bilal EL IDRISSI,DCom,Analyste RH,True,2026-03-19,False,False,b.el.idrissi@company.ma,2025-10-26 15:40:18
-EMP01218,Ahmed BENHADDOU,DLogistique,Analyste RH,True,2026-05-16,False,True,a.benhaddou@company.ma,2025-10-25 04:23:27
-EMP01219,Omar EL HAJJI,DJuridique,DBA,True,2026-05-17,False,False,o.el.hajji@company.ma,2025-06-03 08:48:48
-EMP01220,Rachid SEFRIOUI,DRH,Juriste,True,2026-04-30,False,False,r.sefrioui@company.ma,2026-02-10 01:34:26
-EMP01221,Bilal BENSOUDA,DProd,DevOps Engineer,False,2025-09-08,False,False,b.bensouda@company.ma,2025-10-02 05:12:07
-EMP01222,Ghita SOUSSI,DLogistique,Responsable Logistique,True,2026-05-05,True,True,v-g.soussi@company.ma,2026-03-20 09:06:45
-EMP01223,Ali TAHIRI,DJuridique,Responsable Sécurité,True,2026-04-25,False,False,v-a.tahiri@company.ma,2026-03-15 14:51:54
-EMP01224,Aicha EL AMRANI,Direction Générale,Assistant RH,True,2026-03-06,True,False,a.el.amrani@company.ma,2025-09-17 03:39:34
-EMP01225,Omar BOUAZZA,DCom,Ingénieur Système,True,2026-03-20,False,False,v-o.bouazza@company.ma,2026-02-08 12:29:40
-EMP01226,Jamal ALAOUI,DRH,Chef de Projet,True,2026-04-19,False,False,j.alaoui@company.ma,2026-01-27 22:14:05
-EMP01227,Omar BOUAZZA,DAF,Auditeur Interne,True,2026-04-28,False,False,v-o.bouazza@company.ma,2025-08-30 22:38:04
-EMP01228,Ibtissam CHERKAOUI,DLogistique,Juriste,True,2026-04-25,False,False,i.cherkaoui@company.ma,2026-03-29 03:08:27
-EMP01229,Rim BAKKALI,DCom,Analyste RH,True,2026-03-24,False,False,v-r.bakkali@company.ma,2025-10-31 01:53:01
-EMP01230,Abderrahim BERRADA,DJuridique,Contrôleur de Gestion,True,2026-04-19,False,False,a.berrada@company.ma,2025-12-15 03:43:45
-EMP01231,Omar BAKKALI,DCom,Auditeur Interne,True,2026-04-27,False,False,o.bakkali@company.ma,2025-09-12 14:50:05
-EMP01232,Mustapha LAZRAK,DLogistique,DevOps Engineer,True,2026-03-18,False,False,m.lazrak@company.ma,2026-01-30 16:20:30
-EMP01233,Bilal LAZRAK,DSI,Data Analyst,True,2026-05-04,False,False,b.lazrak@company.ma,2025-11-17 15:07:52
-EMP01234,Mustapha EL OUAZZANI,DCom,Ingénieur Système,True,2026-05-16,False,False,m.el.ouazzani@company.ma,2025-07-07 01:20:03
-EMP01235,Mohamed MERNISSI,DLogistique,Comptable Principal,True,2026-03-22,False,False,m.mernissi@company.ma,2025-12-28 15:47:41
-EMP01236,Ahmed ALAOUI,Direction Générale,Chef de Projet,True,2026-03-07,False,False,v-a.alaoui@company.ma,2025-07-29 04:41:25
-EMP01237,Imane BOUAZZA,DJuridique,Juriste,True,2025-10-09,False,False,v-i.bouazza@company.ma,2026-03-14 01:32:57
-EMP01238,Abderrahim KETTANI,DAF,Data Analyst,True,2026-04-04,False,False,,2025-08-06 23:14:39
-EMP01239,Bilal BENNANI,DCom,Analyste RH,True,2026-05-19,False,False,b.bennani@company.ma,2025-08-26 03:46:06
-EMP01240,Rim EL HAJJI,DLogistique,DBA,True,2026-03-23,False,False,r.el.hajji@company.ma,2025-09-14 08:00:55
-EMP01241,Mehdi KETTANI,DLogistique,Contrôleur de Gestion,True,2026-04-13,False,False,v-m.kettani@company.ma,2026-05-06 14:04:28
-EMP01242,Abdelhamid ZIANI,Direction Générale,Analyste RH,True,2026-03-09,False,False,a.ziani@company.ma,2025-07-11 11:29:43
-EMP01243,Khalid MERNISSI,DCom,Juriste,True,2025-10-29,False,True,k.mernissi@company.ma,2025-08-28 20:41:48
-EMP01244,Samir TAHIRI,DLogistique,Assistant RH,True,2026-04-20,False,True,s.tahiri@company.ma,2025-10-30 09:11:55
-EMP01245,Salma EL AMRANI,DAF,Juriste,True,2026-03-18,False,False,s.el.amrani@company.ma,2026-02-02 11:43:47
-EMP01246,Redouane FILALI,DCom,Auditeur Interne,True,2026-04-22,False,False,r.filali@company.ma,2025-07-06 05:56:04
-EMP01247,Rim BENKIRANE,DLogistique,Chef de Projet,True,2026-04-10,False,False,r.benkirane@company.ma,2026-02-18 17:04:28
-EMP01248,Nadia EL MANSOURI,DCom,Responsable Sécurité,True,2026-04-15,False,False,,2026-02-06 08:38:36
-EMP01249,Rachid BERRADA,DCom,Juriste,True,2026-04-18,False,False,r.berrada@company.ma,2025-06-29 20:39:52
-EMP01250,Issam EL AMRANI,DAF,Assistant RH,True,2026-04-06,False,False,i.el.amrani@company.ma,2025-06-05 20:13:06
-EMP01251,Hamid EL AMRANI,DSI,Architecte Solution,True,2026-04-28,False,False,h.el.amrani@company.ma,2026-04-17 09:46:21
-EMP01252,Hamid BAKKALI,DLogistique,Data Analyst,True,2026-03-25,False,False,h.bakkali@company.ma,2026-04-03 00:35:11
-EMP01253,Khalid BENHADDOU,DLogistique,Chef de Projet,True,2026-04-01,False,False,k.benhaddou@company.ma,2026-01-28 12:15:23
-EMP01254,Laila NACIRI,DAF,Ingénieur Système,True,2026-03-06,False,False,l.naciri@company.ma,2026-01-05 22:45:38
-EMP01255,Sara EL HAJJI,DAF,Analyste RH,True,2026-04-05,False,True,v-s.el.hajji@company.ma,2026-04-12 04:17:43
-EMP01256,Samir EL IDRISSI,DLogistique,Auditeur Interne,True,2026-04-09,False,True,v-s.el.idrissi@company.ma,2025-09-20 13:28:43
-EMP01257,Issam EL OUAFI,DJuridique,Responsable IT,False,2026-01-04,False,False,i.el.ouafi@company.ma,2026-04-25 14:51:24
-EMP01258,Sara MERNISSI,DAF,Chef de Projet,True,2026-04-30,False,False,s.mernissi@company.ma,2026-01-25 14:53:30
-EMP01259,Houda MERNISSI,DCom,Juriste,True,2026-04-16,True,False,h.mernissi@company.ma,2025-11-19 18:39:31
-EMP01260,Ahmed BERRADA,DJuridique,Comptable Principal,True,2026-02-28,False,False,v-a.berrada@company.ma,2025-12-21 07:33:34
-EMP01261,Ibtissam BELKACEM,DCom,Développeur Senior,True,2026-03-16,False,False,i.belkacem@company.ma,2025-09-21 06:28:33
-EMP01262,Sara FILALI,DCom_ANCIEN,Directeur Adjoint,True,2026-04-25,True,False,s.filali@company.ma,2026-03-25 00:31:26
-EMP01263,Redouane EL OUAZZANI,DRH,Directeur Adjoint,True,2026-03-23,False,False,v-r.el.ouazzani@company.ma,2026-04-07 01:01:29
-EMP01264,Hassan BAKKALI,DAF,Architecte Solution,True,2026-04-06,False,False,h.bakkali@company.ma,2025-11-13 06:28:37
+EMP01001,Ali BENHADDOU,DAF,Ingénieur Système,True,2026-04-02,False,False,a.benhaddou@company.ma,2026-02-09 15:41:17
+EMP01002,Omar ALAOUI,DLogistique,Responsable Sécurité,True,2026-05-13,False,False,o.alaoui@company.ma,2026-05-10 05:03:59
+EMP01003,Rachid BENALI,DSI,Directeur Adjoint,True,2026-04-12,False,False,r.benali@company.ma,2025-12-09 01:05:27
+EMP01004,Soumia CHRAIBI,DCom,Ingénieur Système,True,2026-03-17,False,False,s.chraibi@company.ma,2025-06-26 19:25:44
+EMP01005,Laila LAZRAK,DAF,Assistant RH,True,2026-04-18,False,False,l.lazrak@company.ma,2025-12-26 09:54:50
+EMP01006,Tariq LAZRAK,DRH_ANCIEN,Développeur Senior,True,2026-03-01,False,False,t.lazrak@company.ma,2025-10-30 07:28:59
+EMP01007,Hamid BAKKALI,DProd,Data Analyst,True,2025-12-16,False,False,v-hamid.bakkali@company.ma,2025-10-26 05:40:11
+EMP01008,Soumia EL AMRANI,DLogistique,Développeur Senior,True,2025-05-09,False,False,s.el.amrani@company.ma,2026-04-21 02:14:09
+EMP01009,Karim CHERKAOUI,DProd,Data Analyst,True,2026-05-16,False,False,k.cherkaoui@company.ma,2025-08-23 09:46:23
+EMP01010,Hassan CHRAIBI,DCom,Analyste RH,True,2026-03-17,False,False,h.chraibi@company.ma,2026-04-22 13:51:48
+EMP01011,Aicha BAKKALI,DJuridique,Développeur Senior,True,2026-04-18,False,False,a.bakkali@company.ma,2026-04-27 22:11:31
+EMP01013,Hassan BENSOUDA,DJuridique,Data Analyst,True,2025-09-16,False,False,h.bensouda@company.ma,2025-11-29 17:21:40
+EMP01014,Salma EL AMRANI,Direction Générale,Technicien Réseau,True,2026-04-27,False,False,s.el.amrani@company.ma,2026-02-28 01:28:46
+EMP01016,Hassan BENSOUDA,DProd,Directeur Adjoint,True,2026-02-25,False,False,h.bensouda@company.ma,2025-12-03 08:36:54
+EMP01017,Redouane BENHADDOU,DAF,Manager Opérationnel,True,2026-05-12,False,False,r.benhaddou@company.ma,2026-03-26 05:35:31
+EMP01018,Fatima BENSOUDA,DCom,Chargé Communication,True,2026-03-29,False,False,f.bensouda@company.ma,2025-07-13 17:53:04
+EMP01019,Rim GHALI,Direction Générale,DevOps Engineer,True,2026-04-12,False,False,v-rim.ghali@company.ma,2025-07-23 15:14:30
+EMP01020,Redouane NACIRI,DRH,Chef de Projet,True,2026-05-14,False,False,r.naciri@company.ma,2025-09-14 22:51:49
+EMP01021,Laila BENHADDOU,DLogistique,Ingénieur Système,True,2025-08-23,False,False,l.benhaddou@company.ma,2026-02-12 17:38:40
+EMP01022,Imane SOUSSI,DSI,Contrôleur de Gestion,True,2026-03-19,False,False,i.soussi@company.ma,2026-01-03 03:26:39
+EMP01023,Ali BENKIRANE,DProd,Responsable Sécurité,True,2026-05-02,False,False,,2026-02-17 13:56:28
+EMP01024,Rim FASSI,DCom,Comptable Principal,True,2025-08-16,False,False,r.fassi@company.ma,2025-11-20 16:17:40
+EMP01025,Nadia LAZRAK,DCom,Contrôleur de Gestion,True,2026-02-27,False,False,v-nadia.lazrak@company.ma,2025-10-14 20:52:28
+EMP01026,Issam NACIRI,DAF,Directeur Adjoint,True,2026-05-21,False,False,i.naciri@company.ma,2026-03-29 15:11:51
+EMP01027,Ghita LAZRAK,DJuridique,Ingénieur Système,True,2026-03-12,False,False,g.lazrak@company.ma,2026-03-17 00:28:41
+EMP01028,Samir BERRADA,DCom,Responsable Logistique,True,2026-04-30,False,False,s.berrada@company.ma,2025-09-10 07:00:16
+EMP01031,Soumia EL OUAZZANI,DLogistique,Directeur Adjoint,True,2026-03-30,False,False,s.el.ouazzani@company.ma,2025-06-06 20:42:04
+EMP01032,Samir BENHADDOU,DJuridique,Architecte Solution,True,2026-03-27,False,False,s.benhaddou@company.ma,2025-09-03 19:45:11
+EMP01033,Aicha EL IDRISSI,Direction Générale,Chef de Projet,True,2026-03-06,False,True,a.el.idrissi@company.ma,2025-08-17 04:01:30
+EMP01034,Mohamed EL IDRISSI,DSI,Chef de Projet,True,2025-09-24,False,False,m.el.idrissi@company.ma,2026-05-17 08:26:59
+EMP01035,Youssef TAZI,Direction Générale,Juriste,True,2026-05-18,False,False,y.tazi@company.ma,2026-01-27 08:49:04
+EMP01036,Redouane EL HAJJI,DJuridique,Directeur Adjoint,True,2026-04-25,False,False,v-redouane.el.hajji@company.ma,2025-07-28 12:20:06
+EMP01037,Jamal TAHIRI,DRH,Assistant RH,True,2026-02-25,False,False,j.tahiri@company.ma,2026-05-16 03:55:43
+EMP01038,Hamid BOUAZZA,DSI,Assistant RH,True,2025-08-10,False,False,v-hamid.bouazza@company.ma,2025-12-18 12:32:26
+EMP01039,Omar BENHADDOU,DProd,Analyste RH,True,2026-03-06,False,False,o.benhaddou@company.ma,2025-11-15 18:00:21
+EMP01040,Samira EL IDRISSI,DAF,Directeur Adjoint,True,2026-02-22,False,False,v-samira.el.idrissi@company.ma,2026-04-19 00:28:36
+EMP01041,Mustapha BENNANI,DRH,Architecte Solution,True,2026-04-04,False,False,m.bennani@company.ma,2025-09-24 04:47:57
+EMP01042,Ibtissam TAHIRI,DSI,Développeur Senior,True,2025-09-12,False,False,i.tahiri@company.ma,2025-05-25 23:12:06
+EMP01043,Meryem EL OUAZZANI,DJuridique,Comptable Principal,True,2026-03-16,False,False,m.el.ouazzani@company.ma,2026-05-04 03:43:15
+EMP01044,Houda BAKKALI,DRH,Analyste RH,True,2026-04-29,False,False,h.bakkali@company.ma,2025-07-12 09:33:51
+EMP01045,Imane BENSOUDA,DRH,Responsable Logistique,True,2026-04-21,False,False,v-imane.bensouda@company.ma,2026-04-07 03:47:43
+EMP01046,Karim CHRAIBI,DSI,Directeur Adjoint,True,2026-05-05,False,False,k.chraibi@company.ma,2026-05-12 17:57:12
+EMP01047,Khalid KETTANI,DAF,Analyste RH,True,2025-11-15,False,False,k.kettani@company.ma,2025-11-09 02:51:55
+EMP01048,Rachid NACIRI,DRH,Comptable Principal,True,2026-04-19,False,True,r.naciri@company.ma,2025-10-29 20:39:02
+EMP01049,Meryem BAKKALI,Direction Générale,Manager Opérationnel,True,2025-10-13,True,False,,2025-08-14 03:36:01
+EMP01050,Youssef SOUSSI,DProd,Data Analyst,True,2025-08-28,False,False,y.soussi@company.ma,2025-11-20 20:38:08
+EMP01051,Amine CHRAIBI,DAF,Chargé Communication,False,2025-09-22,False,False,a.chraibi@company.ma,2025-10-13 22:50:30
+EMP01052,Mehdi BENHADDOU,DRH,Architecte Solution,True,2026-05-16,False,False,m.benhaddou@company.ma,2025-07-12 04:10:04
+EMP01053,Bilal EL AMRANI,DRH,DevOps Engineer,True,2026-03-10,False,False,b.el.amrani@company.ma,2026-03-11 04:42:57
+EMP01054,Hasnaa CHRAIBI,DProd,Technicien Réseau,False,2025-08-10,False,False,h.chraibi@company.ma,2025-11-16 09:57:06
+EMP01055,Meryem SEFRIOUI,DJuridique,Auditeur Interne,True,2026-05-17,False,False,m.sefrioui@company.ma,2026-04-29 17:49:18
+EMP01058,Ali BENSOUDA,DAF,Développeur Senior (Ancien),True,2026-02-28,False,False,v-ali.bensouda@company.ma,2026-03-05 02:57:22
+EMP01059,Issam FASSI,Direction Générale,Directeur Adjoint,True,2026-04-14,False,False,i.fassi@company.ma,2026-04-03 08:17:31
+EMP01060,Abdelhamid BENHADDOU,DSI,Contrôleur de Gestion,True,2026-04-18,False,False,a.benhaddou@company.ma,2026-02-01 22:14:19
+EMP01061,Rim BENHADDOU,DProd,Technicien Réseau,True,2026-03-20,False,False,r.benhaddou@company.ma,2025-11-03 10:24:39
+EMP01062,Abdelhamid BENHADDOU,DLogistique,Comptable Principal,True,2025-08-28,False,False,a.benhaddou@company.ma,2025-07-18 11:25:19
+EMP01063,Ali BENALI,DAF,Chef de Projet,True,2026-04-14,False,False,a.benali@company.ma,2026-05-11 18:37:07
+EMP01064,Samir EL OUAFI,DLogistique,DevOps Engineer,True,2026-04-02,False,False,v-samir.el.ouafi@company.ma,2026-05-14 16:23:00
+EMP01065,Mehdi EL OUAFI,DSI,Auditeur Interne,True,2026-04-14,False,False,m.el.ouafi@company.ma,2026-04-25 19:20:45
+EMP01066,Meryem CHRAIBI,DLogistique,Développeur Senior,True,2026-04-19,False,False,m.chraibi@company.ma,2026-05-09 13:03:09
+EMP01067,Khadija BENKIRANE,DAF,Chargé Communication,False,2025-06-29,False,False,v-khadija.benkirane@company.ma,2026-01-11 06:02:37
+EMP01068,Nadia BENALI,Direction Générale,Juriste,True,2026-03-16,False,False,n.benali@company.ma,2025-08-31 02:32:38
+EMP01069,Meryem BAKKALI,Direction Générale,Technicien Réseau,True,2026-04-07,False,False,m.bakkali@company.ma,2025-10-12 11:50:00
+EMP01070,Youssef BAKKALI,DLogistique,DBA (Ancien),True,2025-07-11,False,False,y.bakkali@company.ma,2025-09-13 04:00:16
+EMP01071,Aicha FASSI,Direction Générale,Chargé Communication,True,2026-03-30,False,False,a.fassi@company.ma,2026-03-13 23:38:59
+EMP01072,Mustapha KETTANI,DCom,Chef de Projet,True,2026-04-24,False,False,m.kettani@company.ma,2025-12-19 18:47:38
+EMP01074,Abdelhamid BERRADA,DCom,Comptable Principal,True,2026-04-15,False,False,a.berrada@company.ma,2026-04-04 04:53:15
+EMP01075,Issam BERRADA,DProd,Assistant RH,True,2026-04-02,False,False,i.berrada@company.ma,2025-11-14 14:55:52
+EMP01076,Hasnaa SOUSSI,Direction Générale,Développeur Senior,True,2026-04-27,False,True,h.soussi@company.ma,2025-10-28 06:33:57
+EMP01077,Rim EL OUAFI,Direction Générale,Ingénieur Système,False,2025-11-08,False,False,r.el.ouafi@company.ma,2025-11-04 17:50:46
+EMP01078,Hassan BOUAZZA,DRH,Juriste,True,2026-03-03,False,False,h.bouazza@company.ma,2025-10-06 04:14:36
+EMP01080,Karim BELKACEM,DLogistique,Responsable Sécurité,True,2026-03-29,False,False,k.belkacem@company.ma,2026-04-08 02:42:39
+EMP01081,Nadia BELKACEM,DLogistique,Data Analyst (Ancien),True,2026-05-15,False,False,n.belkacem@company.ma,2026-01-23 19:32:07
+EMP01082,Mohamed EL MANSOURI,DLogistique,Responsable Logistique,False,2025-06-22,False,False,m.el.mansouri@company.ma,2025-06-27 13:26:59
+EMP01083,Amine SOUSSI,Direction Générale,Architecte Solution,True,2026-03-15,False,False,v-amine.soussi@company.ma,2025-06-19 09:35:13
+EMP01084,Laila ZIANI,DProd,Chef de Projet (Ancien),True,2026-04-15,False,False,l.ziani@company.ma,2026-01-04 12:11:10
+EMP01085,Meryem EL MANSOURI,Direction Générale,Responsable Logistique,True,2026-05-12,False,False,v-meryem.el.mansouri@company.ma,2025-10-19 15:48:55
+EMP01086,Youssef BENALI,DRH,Chargé Communication,True,2026-03-30,False,False,y.benali@company.ma,2025-10-02 20:15:26
+EMP01087,Abderrahim BOUAZZA,DLogistique,Directeur Adjoint,True,2026-05-13,False,False,a.bouazza@company.ma,2025-09-25 06:39:50
+EMP01088,Meryem BELKACEM,DSI,Responsable IT,False,2025-07-31,False,False,v-meryem.belkacem@company.ma,2025-08-01 15:48:54
+EMP01090,Meryem CHERKAOUI,DProd,Développeur Senior,True,2026-03-01,False,True,m.cherkaoui@company.ma,2025-10-16 02:28:10
+EMP01091,Ibtissam NACIRI,DJuridique,Data Analyst,True,2026-05-04,False,False,v-ibtissam.naciri@company.ma,2026-03-13 04:52:36
+EMP01092,Hasnaa EL MANSOURI,DJuridique,Assistant RH,True,2026-03-11,False,False,h.el.mansouri@company.ma,2025-12-22 18:18:57
+EMP01093,Jamal BENKIRANE,Direction Générale,Architecte Solution (Ancien),True,2026-03-25,False,False,j.benkirane@company.ma,2025-12-24 19:52:17
+EMP01094,Ghita BENSOUDA,DCom,DBA,True,2026-04-18,False,False,g.bensouda@company.ma,2025-07-17 04:49:27
+EMP01095,Karim TAZI,DProd,Chargé Communication,True,2026-04-03,False,False,k.tazi@company.ma,2025-11-30 01:49:36
+EMP01096,Fatima TAZI,DAF,Responsable IT (Ancien),True,2026-03-03,False,False,f.tazi@company.ma,2026-04-21 08:53:01
+EMP01097,Hassan CHRAIBI,DJuridique,Assistant RH,True,2026-05-11,False,False,h.chraibi@company.ma,2026-02-15 13:12:25
+EMP01098,Zineb EL OUAFI,DSI,Assistant RH,True,2026-04-01,False,False,v-zineb.el.ouafi@company.ma,2025-08-23 16:10:16
+EMP01099,Jamal BELKACEM,DCom,Ingénieur Système,True,2026-05-08,False,False,j.belkacem@company.ma,2026-02-10 06:38:07
+EMP01100,Najat BAKKALI,Direction Générale,Responsable Sécurité,True,2026-01-23,False,False,n.bakkali@company.ma,2026-04-04 13:55:31
+EMP01101,Mustapha EL IDRISSI,DProd,Assistant RH,True,2026-04-27,False,False,m.el.idrissi@company.ma,2026-03-23 23:20:29
+EMP01103,Ahmed CHERKAOUI,DRH,Manager Opérationnel,True,2026-04-20,False,False,v-ahmed.cherkaoui@company.ma,2025-12-18 15:45:13
+EMP01104,Rim BENHADDOU,DAF,Responsable IT,False,2025-09-03,False,False,r.benhaddou@company.ma,2025-08-25 22:17:36
+EMP01105,Salma BENSOUDA,DProd,Responsable IT,True,2026-04-25,False,False,v-salma.bensouda@company.ma,2025-09-27 07:19:05
+EMP01106,Salma LAZRAK,DLogistique,Technicien Réseau,True,2026-02-22,False,False,s.lazrak@company.ma,2025-08-15 08:46:41
+EMP01107,Rachid EL MANSOURI,,DBA,True,2026-05-07,False,False,r.el.mansouri@company.ma,2025-09-13 06:14:27
+EMP01108,Hamid EL OUAFI,Direction Générale,Chargé Communication,True,2026-03-04,False,False,h.el.ouafi@company.ma,2025-12-09 21:45:19
+EMP01109,Samira EL IDRISSI,Direction Générale,Ingénieur Système,True,2026-04-05,False,True,s.el.idrissi@company.ma,2025-05-30 07:07:17
+EMP01110,Ali ZIANI,DJuridique,DevOps Engineer,True,2026-04-28,False,False,a.ziani@company.ma,2025-09-27 01:39:36
+EMP01112,Omar FASSI,DCom,DevOps Engineer,True,2026-03-16,False,False,o.fassi@company.ma,2026-03-03 21:34:14
+EMP01113,Salma EL HAJJI,DLogistique,Manager Opérationnel (Ancien),True,2026-04-20,False,False,v-salma.el.hajji@company.ma,2026-03-26 15:56:45
+EMP01114,Meryem GHALI,DCom,Développeur Senior,True,2026-05-17,False,False,m.ghali@company.ma,2025-11-27 14:56:03
+EMP01115,Ali SOUSSI,DProd,DevOps Engineer,True,2026-04-20,False,False,a.soussi@company.ma,2025-07-27 12:41:09
+EMP01116,Samir BOUAZZA,DProd,Chef de Projet,True,2026-03-22,False,False,s.bouazza@company.ma,2025-07-05 22:39:21
+EMP01117,Najat BAKKALI,DProd,DBA,True,2026-04-12,False,False,n.bakkali@company.ma,2025-12-16 05:21:03
+EMP01118,Imane SEFRIOUI,DCom,Responsable IT,True,2026-03-10,False,False,i.sefrioui@company.ma,2025-06-11 08:18:22
+EMP01119,Soumia TAHIRI,DCom,DBA,True,2026-04-09,False,False,s.tahiri@company.ma,2026-02-11 10:26:54
+EMP01120,Meryem BAKKALI,DJuridique,Chef de Projet,True,2026-04-05,True,False,m.bakkali@company.ma,2025-09-05 06:25:40
+EMP01121,Imane LAZRAK,DLogistique,DevOps Engineer,True,2026-05-08,False,False,i.lazrak@company.ma,2025-07-04 21:05:46
+EMP01122,Redouane BENALI,Direction Générale,Juriste,True,2026-03-29,False,False,r.benali@company.ma,2025-11-02 15:20:31
+EMP01123,Abdelhamid TAHIRI,DCom,Juriste,True,2026-05-05,True,False,a.tahiri@company.ma,2025-06-24 07:21:12
+EMP01124,Ghita BENALI,DLogistique,Directeur Adjoint,True,2026-05-07,False,False,g.benali@company.ma,2026-01-13 12:39:55
+EMP01126,Ahmed TAHIRI,DLogistique,Chef de Projet,True,2026-03-07,False,False,v-ahmed.tahiri@company.ma,2026-01-08 07:43:47
+EMP01127,Mehdi EL IDRISSI,DProd,DevOps Engineer,True,2026-04-30,False,False,m.el.idrissi@company.ma,2026-04-03 02:38:59
+EMP01128,Ibtissam BENKIRANE,DJuridique,Juriste,True,2026-05-08,False,False,i.benkirane@company.ma,2025-07-12 01:22:53
+EMP01129,Abdelhamid FASSI,Direction Générale,Chargé Communication,True,2026-05-12,False,False,a.fassi@company.ma,2026-01-20 08:15:09
+EMP01130,Soumia BERRADA,DJuridique,Comptable Principal,True,2026-04-24,False,False,s.berrada@company.ma,2026-04-27 05:48:12
+EMP01131,Mourad BENKIRANE,DRH,Contrôleur de Gestion,True,2026-03-25,False,False,m.benkirane@company.ma,2026-01-23 01:45:20
+EMP01133,Fatima CHERKAOUI,DSI,Technicien Réseau,True,2026-02-27,False,False,v-fatima.cherkaoui@company.ma,2025-09-23 21:56:03
+EMP01134,Fatima FASSI,DSI,DBA,True,2026-04-18,False,False,f.fassi@company.ma,2025-06-08 08:49:55
+EMP01136,Jamal BENSOUDA,DLogistique_ANCIEN,Développeur Senior,True,2026-04-07,False,False,j.bensouda@company.ma,2025-11-03 15:59:29
+EMP01137,Abderrahim TAZI,DJuridique,Analyste RH,True,2026-03-06,False,False,a.tazi@company.ma,2025-10-08 12:06:51
+EMP01138,Ali EL IDRISSI,Direction Générale,Responsable Sécurité,True,2026-05-20,False,False,a.el.idrissi@company.ma,2025-11-04 05:20:07
+EMP01139,Sara BELKACEM,DLogistique,Architecte Solution,True,2026-02-21,False,False,s.belkacem@company.ma,2025-05-24 15:45:41
+EMP01140,Bilal GHALI,DRH,Analyste RH,True,2026-05-16,False,False,b.ghali@company.ma,2025-06-30 07:18:12
+EMP01141,Zineb BENHADDOU,DAF,Technicien Réseau,True,2026-03-22,False,False,v-zineb.benhaddou@company.ma,2025-07-16 00:06:00
+EMP01142,Ibtissam BENNANI,DLogistique,Chef de Projet,True,2026-04-21,False,False,i.bennani@company.ma,2025-10-28 10:01:38
+EMP01143,Issam FILALI,Direction Générale,DBA,True,2026-03-14,False,False,i.filali@company.ma,2025-11-04 06:48:22
+EMP01144,Karim FILALI,Direction Générale,Architecte Solution,True,2026-03-20,False,False,k.filali@company.ma,2026-02-13 16:18:59
+EMP01145,Mourad TAHIRI,Direction Générale,Directeur Adjoint,False,2025-12-28,False,False,v-mourad.tahiri@company.ma,2026-01-27 11:21:06
+EMP01146,Mustapha ALAOUI,DAF,Responsable IT,True,2026-03-16,False,False,m.alaoui@company.ma,2025-05-26 05:05:08
+EMP01147,Abderrahim SOUSSI,DJuridique,Responsable Logistique,True,2026-03-06,False,False,a.soussi@company.ma,2025-11-20 10:47:15
+EMP01148,Houda FASSI,DJuridique,Technicien Réseau (Ancien),True,2026-02-23,False,False,h.fassi@company.ma,2025-10-23 02:00:32
+EMP01149,Issam TAZI,DProd,Analyste RH,True,2026-04-11,False,False,i.tazi@company.ma,2025-07-19 19:41:52
+EMP01150,Ahmed BENSOUDA,Direction Générale,Chef de Projet,True,2026-04-12,False,False,a.bensouda@company.ma,2026-03-13 22:22:39
+EMP01151,Mustapha EL MANSOURI,DAF,DevOps Engineer,True,2026-02-27,False,False,m.el.mansouri@company.ma,2026-05-15 14:46:06
+EMP01153,Redouane EL MANSOURI,DLogistique,Chef de Projet,True,2026-04-21,False,False,,2025-07-13 19:31:10
+EMP01155,Houda EL HAJJI,DRH,Responsable Sécurité,True,2026-03-27,False,False,v-houda.el.hajji@company.ma,2026-03-20 21:12:58
+EMP01156,Amine BENSOUDA,DLogistique,Développeur Senior (Ancien),True,2026-03-04,False,False,a.bensouda@company.ma,2026-02-22 03:56:48
+EMP01157,Mohamed EL MANSOURI,DSI,Chargé Communication,True,2026-04-10,False,False,v-mohamed.el.mansouri@company.ma,2025-08-28 14:28:02
+EMP01158,Samir NACIRI,DJuridique,Data Analyst,True,2026-04-27,False,True,v-samir.naciri@company.ma,2025-08-24 11:59:52
+EMP01159,Mustapha CHRAIBI,DCom,Responsable Sécurité,True,2026-03-08,True,False,m.chraibi@company.ma,2026-01-31 04:12:38
+EMP01160,Redouane SEFRIOUI,Direction Générale,Développeur Senior,True,2026-04-02,False,False,r.sefrioui@company.ma,2026-02-07 00:27:48
+EMP01161,Mehdi BENNANI,,Responsable Sécurité (Ancien),True,2026-05-10,False,False,m.bennani@company.ma,2026-03-17 22:24:42
+EMP01162,Aicha TAZI,DRH,Développeur Senior,True,2026-04-16,False,False,a.tazi@company.ma,2025-08-23 17:39:35
+EMP01163,Khadija EL MANSOURI,DCom,DBA,True,2026-04-10,False,False,v-khadija.el.mansouri@company.ma,2025-07-18 23:59:36
+EMP01164,Mustapha FILALI,DJuridique_ANCIEN,Assistant RH,False,2025-09-22,False,False,,2025-09-28 15:12:04
+EMP01165,Ibtissam EL AMRANI,DAF,Responsable IT,False,2025-12-27,False,False,i.el.amrani@company.ma,2025-10-31 13:34:49
+EMP01166,Najat BENSOUDA,DCom,Responsable Sécurité,True,2025-06-10,False,False,n.bensouda@company.ma,2026-02-17 16:58:46
+EMP01167,Mehdi FASSI,DJuridique,DevOps Engineer,True,2026-05-05,False,False,m.fassi@company.ma,2025-12-28 01:05:09
+EMP01168,Soumia EL AMRANI,DLogistique,DBA,True,2026-03-06,False,False,s.el.amrani@company.ma,2026-03-03 02:35:54
+EMP01169,Amine EL OUAZZANI,Direction Générale,Directeur Adjoint,True,2026-03-16,False,False,a.el.ouazzani@company.ma,2025-07-24 08:41:56
+EMP01170,Aicha BELKACEM,DJuridique,Assistant RH,True,2026-03-05,False,False,a.belkacem@company.ma,2025-07-07 02:17:18
+EMP01172,Fatima EL OUAFI,DAF,Contrôleur de Gestion,True,2026-03-23,True,False,f.el.ouafi@company.ma,2025-06-25 22:46:44
+EMP01173,Sara BAKKALI,Direction Générale,Développeur Senior,True,2026-03-31,False,False,,2025-10-25 13:49:18
+EMP01175,Abdelhamid ZIANI,DLogistique,Juriste,True,2026-04-15,False,False,,2026-04-09 00:14:38
+EMP01176,Tariq TAZI,DJuridique,Responsable Sécurité,True,2026-03-12,False,False,t.tazi@company.ma,2025-08-30 00:59:46
+EMP01177,Redouane FILALI,DRH,Responsable Sécurité,True,2025-05-11,False,False,r.filali@company.ma,2026-03-31 15:59:17
+EMP01178,Karim BENHADDOU,DSI,Chargé Communication,True,2025-10-12,False,False,k.benhaddou@company.ma,2025-10-17 03:54:35
+EMP01179,Omar LAZRAK,DCom,Architecte Solution,True,2026-03-14,False,False,o.lazrak@company.ma,2026-01-16 03:15:25
+EMP01180,Amine EL OUAFI,DProd,Comptable Principal,True,2026-04-02,False,False,a.el.ouafi@company.ma,2026-01-26 02:34:07
+EMP01181,Meryem ALAOUI,DAF,Contrôleur de Gestion,True,2026-04-23,True,False,m.alaoui@company.ma,2025-11-23 19:35:45
+EMP01182,Rachid BENNANI,DRH,Data Analyst,True,2026-05-21,False,True,v-rachid.bennani@company.ma,2025-06-01 21:44:27
+EMP01183,Mourad EL OUAZZANI,DCom,Responsable IT,True,2026-02-27,False,False,m.el.ouazzani@company.ma,2025-07-22 12:25:26
+EMP01184,Mohamed BENSOUDA,DAF,Architecte Solution,True,2026-03-19,False,False,m.bensouda@company.ma,2025-12-31 02:27:08
+EMP01185,Hamid EL AMRANI,DLogistique,DevOps Engineer,True,2026-03-27,False,False,h.el.amrani@company.ma,2026-03-04 04:15:04
+EMP01186,Imane BENSOUDA,DLogistique,Responsable Logistique,True,2026-02-24,False,False,i.bensouda@company.ma,2026-04-11 11:11:34
+EMP01187,Meryem BERRADA,DCom,Manager Opérationnel,True,2026-04-10,True,True,m.berrada@company.ma,2025-05-29 06:21:19
+EMP01188,Ahmed FASSI,DSI,Manager Opérationnel,True,2025-12-11,False,False,a.fassi@company.ma,2025-09-24 04:40:45
+EMP01189,Redouane BENKIRANE,Direction Générale,Responsable Logistique,True,2026-04-30,False,False,v-redouane.benkirane@company.ma,2025-10-13 14:43:53
+EMP01190,Hamid TAHIRI,DRH,Chargé Communication,True,2026-04-19,False,False,h.tahiri@company.ma,2026-03-25 01:07:13
+EMP01191,Fatima LAZRAK,DRH,Développeur Senior,True,2026-03-24,False,False,f.lazrak@company.ma,2025-08-16 05:20:04
+EMP01192,Sara TAHIRI,DAF,Analyste RH,True,2026-03-30,False,False,s.tahiri@company.ma,2025-12-29 23:49:13
+EMP01193,Karim EL OUAZZANI,Direction Générale_ANCIEN,Juriste,True,2026-04-17,False,False,v-karim.el.ouazzani@company.ma,2025-12-27 03:55:24
+EMP01195,Jamal BENSOUDA,DProd,Responsable Logistique,True,2026-03-25,False,False,j.bensouda@company.ma,2025-06-24 23:35:57
+EMP01196,Hassan EL AMRANI,Direction Générale,Responsable IT,True,2026-05-03,False,False,h.el.amrani@company.ma,2025-08-29 04:50:18
+EMP01197,Houda BENKIRANE,DLogistique,Responsable Sécurité,True,2026-02-26,False,False,h.benkirane@company.ma,2025-10-15 14:28:12
+EMP01198,Soumia BENSOUDA,DCom,Développeur Senior,True,2026-05-12,False,False,s.bensouda@company.ma,2025-06-19 03:38:03
+EMP01199,Samir BELKACEM,DJuridique,Développeur Senior,True,2025-04-24,False,False,v-samir.belkacem@company.ma,2026-03-01 19:12:30
+EMP01200,Ibtissam SOUSSI,Direction Générale,Juriste,True,2026-03-02,False,False,i.soussi@company.ma,2026-01-30 08:56:04
+EMP01201,Imane TAZI,DRH,Responsable Logistique,True,2026-03-08,False,False,v-imane.tazi@company.ma,2026-05-15 23:35:03
+EMP01202,Youssef EL OUAFI,DAF,Responsable Logistique,True,2026-03-20,False,False,v-youssef.el.ouafi@company.ma,2025-06-11 16:38:06
+EMP01203,Soumia EL IDRISSI,DProd,Responsable IT,True,2026-03-22,False,False,v-soumia.el.idrissi@company.ma,2026-01-24 08:58:52
+EMP01204,Soumia BENKIRANE,DAF,Assistant RH,True,2025-05-31,False,False,v-soumia.benkirane@company.ma,2025-12-18 20:14:06
+EMP01205,Omar BENHADDOU,DCom,DBA,True,2026-03-30,False,False,o.benhaddou@company.ma,2025-09-02 19:47:32
+EMP01206,Samir FILALI,DAF,Directeur Adjoint,True,2026-04-30,False,False,s.filali@company.ma,2026-01-05 13:15:42
+EMP01207,Samir BERRADA,DProd,Développeur Senior,True,2025-09-13,False,False,s.berrada@company.ma,2026-04-28 22:13:21
+EMP01208,Mustapha BELKACEM,Direction Générale,Directeur Adjoint,True,2026-03-31,False,False,m.belkacem@company.ma,2026-02-08 15:41:45
+EMP01209,Zineb EL HAJJI,DSI,Data Analyst,True,2026-05-06,False,False,z.el.hajji@company.ma,2025-06-07 02:22:52
+EMP01210,Fatima EL IDRISSI,DCom,DevOps Engineer,True,2026-04-04,False,False,f.el.idrissi@company.ma,2026-02-27 21:42:15
+EMP01211,Aicha CHRAIBI,DSI,Juriste,True,2025-09-14,False,False,a.chraibi@company.ma,2025-05-26 07:51:07
+EMP01212,Khadija BAKKALI,DProd,Responsable IT,True,2026-04-13,False,False,k.bakkali@company.ma,2026-05-21 10:47:08
+EMP01213,Ahmed EL HAJJI,,Comptable Principal,True,2026-05-08,False,False,a.el.hajji@company.ma,2025-10-17 06:50:13
+EMP01214,Amine GHALI,DSI_ANCIEN,Manager Opérationnel,True,2026-04-08,False,False,a.ghali@company.ma,2025-06-05 14:05:32
+EMP01215,Najat BENKIRANE,DRH,Assistant RH,True,2026-04-29,False,False,,2026-04-03 23:12:07
+EMP01216,Samir EL AMRANI,DJuridique,Contrôleur de Gestion,True,2026-05-14,False,False,s.el.amrani@company.ma,2026-03-06 08:37:11
+EMP01217,Bilal EL IDRISSI,DCom,Analyste RH,True,2026-03-19,False,False,b.el.idrissi@company.ma,2025-10-26 15:42:57
+EMP01218,Ahmed BENHADDOU,DLogistique,Analyste RH,True,2026-05-16,False,True,a.benhaddou@company.ma,2025-10-25 04:26:06
+EMP01219,Omar EL HAJJI,DJuridique,DBA,True,2026-05-17,False,False,o.el.hajji@company.ma,2025-06-03 08:51:27
+EMP01220,Rachid SEFRIOUI,DRH,Juriste,True,2026-04-30,False,False,r.sefrioui@company.ma,2026-02-10 01:37:05
+EMP01221,Bilal BENSOUDA,DProd,DevOps Engineer,False,2025-09-08,False,False,b.bensouda@company.ma,2025-10-02 05:14:46
+EMP01222,Ghita SOUSSI,DLogistique,Responsable Logistique,True,2026-05-05,True,True,v-ghita.soussi@company.ma,2026-03-20 09:09:24
+EMP01223,Ali TAHIRI,DJuridique,Responsable Sécurité,True,2026-04-25,False,False,v-ali.tahiri@company.ma,2026-03-15 14:54:33
+EMP01224,Aicha EL AMRANI,Direction Générale,Assistant RH,True,2026-03-06,True,False,a.el.amrani@company.ma,2025-09-17 03:42:13
+EMP01225,Omar BOUAZZA,DCom,Ingénieur Système,True,2026-03-20,False,False,v-omar.bouazza@company.ma,2026-02-08 12:32:19
+EMP01226,Jamal ALAOUI,DRH,Chef de Projet,True,2026-04-19,False,False,j.alaoui@company.ma,2026-01-27 22:16:44
+EMP01227,Omar BOUAZZA,DAF,Auditeur Interne,True,2026-04-28,False,False,v-omar.bouazza@company.ma,2025-08-30 22:40:43
+EMP01228,Ibtissam CHERKAOUI,DLogistique,Juriste,True,2026-04-25,False,False,i.cherkaoui@company.ma,2026-03-29 03:11:06
+EMP01229,Rim BAKKALI,DCom,Analyste RH,True,2026-03-24,False,False,v-rim.bakkali@company.ma,2025-10-31 01:55:40
+EMP01230,Abderrahim BERRADA,DJuridique,Contrôleur de Gestion,True,2026-04-19,False,False,a.berrada@company.ma,2025-12-15 03:46:24
+EMP01231,Omar BAKKALI,DCom,Auditeur Interne,True,2026-04-27,False,False,o.bakkali@company.ma,2025-09-12 14:52:44
+EMP01232,Mustapha LAZRAK,DLogistique,DevOps Engineer,True,2026-03-18,False,False,m.lazrak@company.ma,2026-01-30 16:23:09
+EMP01233,Bilal LAZRAK,DSI,Data Analyst,True,2026-05-04,False,False,b.lazrak@company.ma,2025-11-17 15:10:31
+EMP01234,Mustapha EL OUAZZANI,DCom,Ingénieur Système,True,2026-05-16,False,False,m.el.ouazzani@company.ma,2025-07-07 01:22:42
+EMP01235,Mohamed MERNISSI,DLogistique,Comptable Principal,True,2026-03-22,False,False,m.mernissi@company.ma,2025-12-28 15:50:20
+EMP01236,Ahmed ALAOUI,Direction Générale,Chef de Projet,True,2026-03-07,False,False,v-ahmed.alaoui@company.ma,2025-07-29 04:44:04
+EMP01237,Imane BOUAZZA,DJuridique,Juriste,True,2025-10-09,False,False,v-imane.bouazza@company.ma,2026-03-14 01:35:36
+EMP01238,Abderrahim KETTANI,DAF,Data Analyst,True,2026-04-04,False,False,,2025-08-06 23:17:18
+EMP01239,Bilal BENNANI,DCom,Analyste RH,True,2026-05-19,False,False,b.bennani@company.ma,2025-08-26 03:48:45
+EMP01240,Rim EL HAJJI,DLogistique,DBA,True,2026-03-23,False,False,r.el.hajji@company.ma,2025-09-14 08:03:34
+EMP01241,Mehdi KETTANI,DLogistique,Contrôleur de Gestion,True,2026-04-13,False,False,v-mehdi.kettani@company.ma,2026-05-06 14:07:07
+EMP01242,Abdelhamid ZIANI,Direction Générale,Analyste RH,True,2026-03-09,False,False,a.ziani@company.ma,2025-07-11 11:32:22
+EMP01243,Khalid MERNISSI,DCom,Juriste,True,2025-10-29,False,True,k.mernissi@company.ma,2025-08-28 20:44:27
+EMP01244,Samir TAHIRI,DLogistique,Assistant RH,True,2026-04-20,False,True,s.tahiri@company.ma,2025-10-30 09:14:34
+EMP01245,Salma EL AMRANI,DAF,Juriste,True,2026-03-18,False,False,s.el.amrani@company.ma,2026-02-02 11:46:26
+EMP01246,Redouane FILALI,DCom,Auditeur Interne,True,2026-04-22,False,False,r.filali@company.ma,2025-07-06 05:58:43
+EMP01247,Rim BENKIRANE,DLogistique,Chef de Projet,True,2026-04-10,False,False,r.benkirane@company.ma,2026-02-18 17:07:07
+EMP01248,Nadia EL MANSOURI,DCom,Responsable Sécurité,True,2026-04-15,False,False,,2026-02-06 08:41:15
+EMP01249,Rachid BERRADA,DCom,Juriste,True,2026-04-18,False,False,r.berrada@company.ma,2025-06-29 20:42:31
+EMP01250,Issam EL AMRANI,DAF,Assistant RH,True,2026-04-06,False,False,i.el.amrani@company.ma,2025-06-05 20:15:45
+EMP01251,Hamid EL AMRANI,DSI,Architecte Solution,True,2026-04-28,False,False,h.el.amrani@company.ma,2026-04-17 09:49:00
+EMP01252,Hamid BAKKALI,DLogistique,Data Analyst,True,2026-03-25,False,False,h.bakkali@company.ma,2026-04-03 00:37:50
+EMP01253,Khalid BENHADDOU,DLogistique,Chef de Projet,True,2026-04-01,False,False,k.benhaddou@company.ma,2026-01-28 12:18:02
+EMP01254,Laila NACIRI,DAF,Ingénieur Système,True,2026-03-06,False,False,l.naciri@company.ma,2026-01-05 22:48:17
+EMP01255,Sara EL HAJJI,DAF,Analyste RH,True,2026-04-05,False,True,v-sara.el.hajji@company.ma,2026-04-12 04:20:22
+EMP01256,Samir EL IDRISSI,DLogistique,Auditeur Interne,True,2026-04-09,False,True,v-samir.el.idrissi@company.ma,2025-09-20 13:31:22
+EMP01257,Issam EL OUAFI,DJuridique,Responsable IT,False,2026-01-04,False,False,i.el.ouafi@company.ma,2026-04-25 14:54:03
+EMP01258,Sara MERNISSI,DAF,Chef de Projet,True,2026-04-30,False,False,s.mernissi@company.ma,2026-01-25 14:56:09
+EMP01259,Houda MERNISSI,DCom,Juriste,True,2026-04-16,True,False,h.mernissi@company.ma,2025-11-19 18:42:10
+EMP01260,Ahmed BERRADA,DJuridique,Comptable Principal,True,2026-02-28,False,False,v-ahmed.berrada@company.ma,2025-12-21 07:36:13
+EMP01261,Ibtissam BELKACEM,DCom,Développeur Senior,True,2026-03-16,False,False,i.belkacem@company.ma,2025-09-21 06:31:12
+EMP01262,Sara FILALI,DCom_ANCIEN,Directeur Adjoint,True,2026-04-25,True,False,s.filali@company.ma,2026-03-25 00:34:05
+EMP01263,Redouane EL OUAZZANI,DRH,Directeur Adjoint,True,2026-03-23,False,False,v-redouane.el.ouazzani@company.ma,2026-04-07 01:04:08
+EMP01264,Hassan BAKKALI,DAF,Architecte Solution,True,2026-04-06,False,False,h.bakkali@company.ma,2025-11-13 06:31:16

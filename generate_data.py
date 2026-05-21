@@ -186,10 +186,10 @@ def _gen_ad(rh: pd.DataFrame) -> pd.DataFrame:
         fn = _slug(row['prenom'])
         ln = _slug(row['nom'])
         is_presta = row['matricule'] in presta_set
-        # Agent : i.nom@company.ma  |  Prestataire : v-i.nom@company.ma
-        # où i = première lettre du prénom
-        email_prefix = 'v-' if is_presta else ''
-        email_local  = f"{fn[0]}.{ln}"
+        # Agent      : initiale.nom@company.ma     ex: a.jazouli@company.ma
+        # Prestataire: v-prenom.nom@company.ma     ex: v-abdessamad.jazouli@company.ma
+        email_local  = f"v-{fn}.{ln}" if is_presta else f"{fn[0]}.{ln}"
+        email_prefix = ''  # déjà inclus dans email_local
 
         rows.append({
             'employeeID':      row['matricule'],
@@ -236,7 +236,7 @@ def _gen_ldap(rh: pd.DataFrame) -> pd.DataFrame:
         if random.random() < 0.04:
             cn = cn + '_OLD'
 
-        # Agent : i.nom@company.ma  |  pas de prestataire dans LDAP (même format que AD)
+        # Agent : initiale.nom@company.ma  ex: a.jazouli@company.ma
         email_local = f"{fn[0]}.{ln}"
 
         rows.append({
