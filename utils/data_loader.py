@@ -35,6 +35,10 @@ def load_all_data():
     ad['enabled']         = ad['enabled'].astype(bool)
     ad['lockedOut']       = ad['lockedOut'].astype(bool)
     ad['passwordExpired'] = ad['passwordExpired'].astype(bool)
+    # Prestataire = email commence par "v-", sinon Agent
+    ad['type_util'] = ad['mail'].apply(
+        lambda x: 'Prestataire' if str(x).lower().startswith('v-') else 'Agent'
+    )
     ldap['enabled']     = ldap['enabled'].astype(bool)
     ldap['last_logon']  = pd.to_datetime(
         ldap['last_logon'].replace('', pd.NaT), errors='coerce'

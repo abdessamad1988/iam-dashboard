@@ -40,11 +40,9 @@ div[data-testid="stRadio"] label:hover {
 
 # ── Données ───────────────────────────────────────────────────────────────────
 rh, rh_prev, ad, ldap, logs, merged = load_all_data()
-r = run_analyse_ad(rh, rh_prev, ad)
 
 m_label  = rh['mois'].iloc[0]      if not rh.empty      else 'M'
 m1_label = rh_prev['mois'].iloc[0] if not rh_prev.empty else 'M-1'
-n_inco   = r['n_inco_name'] + r['n_inco_status'] + r['n_inco_dept'] + r['n_inco_title']
 
 # ── Sidebar sous-menu ─────────────────────────────────────────────────────────
 with st.sidebar:
@@ -56,6 +54,30 @@ with st.sidebar:
         'text-transform:uppercase;margin:12px 0 4px 4px;">🖥️ Analyse RH ↔ AD</div>',
         unsafe_allow_html=True,
     )
+
+    # ── Filtre Prestataire / Agent ─────────────────────────────────────────────
+    st.markdown(
+        '<div style="font-size:.72rem;font-weight:700;letter-spacing:.08em;color:#90A4AE;'
+        'text-transform:uppercase;margin:12px 0 4px 4px;">Périmètre</div>',
+        unsafe_allow_html=True,
+    )
+    filtre_type = st.radio(
+        "filtre_type_ad",
+        options=["Tous", "Agent", "Prestataire"],
+        horizontal=True,
+        label_visibility="collapsed",
+    )
+
+    # Appliquer le filtre sur AD
+    if filtre_type != "Tous":
+        ad_filtre = ad[ad['type_util'] == filtre_type].copy()
+    else:
+        ad_filtre = ad.copy()
+
+    st.divider()
+
+    r = run_analyse_ad(rh, rh_prev, ad_filtre)
+    n_inco = r['n_inco_name'] + r['n_inco_status'] + r['n_inco_dept'] + r['n_inco_title']
 
     section = st.radio(
         "section_ad",
@@ -96,7 +118,7 @@ def _enabled_fmt(df: pd.DataFrame) -> pd.DataFrame:
     return d
 
 
-COLS_AD = [c for c in ['employeeID', 'displayName', 'mail', 'enabled', 'department',
+COLS_AD = [c for c in ['employeeID', 'displayName', 'mail', 'type_util', 'enabled', 'department',
                         'title', 'lastLogon', 'lockedOut', 'passwordExpired', 'timestamp'] if c in ad.columns]
 
 BADGE = {'critique': '#D32F2F', 'important': '#F57C00', 'info': '#1565C0'}
@@ -190,6 +212,77 @@ if section.startswith("📊"):
 
     st.caption("👈 Utilisez le sous-menu pour accéder au détail de chaque section.")
 
+    # ── Répartition Agents / Prestataires ─────────────────────────────────────
+    st.divider()
+    st.subheader("👥 Répartition Agents / Prestataires")
+
+    n_agents      = int((ad['type_util'] == 'Agent').sum())
+    n_presta      = int((ad['type_util'] == 'Prestataire').sum())
+    n_presta_lock = int(ad[ad['type_util'] == 'Prestataire']['lockedOut'].sum())
+    n_presta_pwd  = int(ad[ad['type_util'] == 'Prestataire']['passwordExpired'].sum())
+    n_presta_inac = int((ad[ad['type_util'] == 'Prestataire']['enabled'] == False).sum())
+
+    k1, k2, k3, k4, k5 = st.columns(5)
+    with k1: st.markdown(kpi_card(n_agents,      "Agents",                    '#1976D2', '🏢'), unsafe_allow_html=True)
+    with k2: st.markdown(kpi_card(n_presta,       "Prestataires",              '#7B1FA2', '🤝'), unsafe_allow_html=True)
+    with k3: st.markdown(kpi_card(n_presta_lock,  "Prestataires bloqués",      '#D32F2F', '🔒'), unsafe_allow_html=True)
+    with k4: st.markdown(kpi_card(n_presta_pwd,   "Prestataires MDP expirés",  '#F57C00', '🔑'), unsafe_allow_html=True)
+    with k5: st.markdown(kpi_card(n_presta_inac,  "Prestataires inactifs",     '#90A4AE', '⛔'), unsafe_allow_html=True)
+
+    st.markdown("<br>", unsafe_allow_html=True)
+    col_tp1, col_tp2 = st.columns(2)
+
+    with col_tp1:
+        type_df = pd.DataFrame({
+            'Type': ['Agent', 'Prestataire'],
+            'Nombre': [n_agents, n_presta],
+        })
+        fig_type = px.pie(
+            type_df, names='Type', values='Nombre',
+            color='Type',
+            color_discrete_map={'Agent': '#1976D2', 'Prestataire': '#7B1FA2'},
+            hole=0.45, title="Répartition globale",
+        )
+        fig_type.update_layout(height=280, margin=dict(t=30, b=0, l=0, r=0))
+        st.plotly_chart(fig_type, use_container_width=True)
+
+    with col_tp2:
+        # Anomalies par type
+        anomalie_df = pd.DataFrame({
+            'Anomalie': ['Bloqués', 'MDP expirés', 'Inactifs', 'Bloqués', 'MDP expirés', 'Inactifs'],
+            'Type':     ['Agent', 'Agent', 'Agent', 'Prestataire', 'Prestataire', 'Prestataire'],
+            'Nombre': [
+                int(ad[ad['type_util'] == 'Agent']['lockedOut'].sum()),
+                int(ad[ad['type_util'] == 'Agent']['passwordExpired'].sum()),
+                int((ad[ad['type_util'] == 'Agent']['enabled'] == False).sum()),
+                n_presta_lock, n_presta_pwd, n_presta_inac,
+            ],
+        })
+        fig_anom = px.bar(
+            anomalie_df, x='Anomalie', y='Nombre', color='Type', barmode='group',
+            color_discrete_map={'Agent': '#1976D2', 'Prestataire': '#7B1FA2'},
+            title="Anomalies : Agents vs Prestataires",
+        )
+        fig_anom.update_layout(height=280, margin=dict(t=30, b=0, l=0, r=0),
+                               plot_bgcolor='white', paper_bgcolor='white',
+                               legend=dict(orientation='h', y=1.12, x=0))
+        st.plotly_chart(fig_anom, use_container_width=True)
+
+    # Tableau prestataires à risque
+    if n_presta > 0:
+        presta_risk = ad[
+            (ad['type_util'] == 'Prestataire') &
+            (ad['lockedOut'] | ad['passwordExpired'] | (~ad['enabled']))
+        ].copy()
+        if not presta_risk.empty:
+            st.warning(f"⚠️ {len(presta_risk)} prestataire(s) avec anomalie(s) — action requise.")
+            cols_pr = [c for c in ['employeeID', 'displayName', 'mail', 'enabled',
+                                   'lockedOut', 'passwordExpired', 'department', 'lastLogon'] if c in presta_risk.columns]
+            st.dataframe(_enabled_fmt(presta_risk[cols_pr]), use_container_width=True, hide_index=True)
+            csv = presta_risk[cols_pr].to_csv(index=False, encoding='utf-8-sig').encode('utf-8-sig')
+            st.download_button("⬇️ Exporter Prestataires à risque", csv,
+                               "prestataires_a_risque.csv", "text/csv")
+
     st.divider()
     col_pdf1, col_pdf2 = st.columns([1, 3])
     with col_pdf1:
@@ -250,7 +343,7 @@ elif section.startswith("👻"):
             st.plotly_chart(fig2, use_container_width=True)
 
         st.subheader(f"Détail — {n} compte(s) orphelin(s)")
-        cols_show = [c for c in ['employeeID', 'displayName', 'mail', 'enabled',
+        cols_show = [c for c in ['employeeID', 'displayName', 'mail', 'type_util', 'enabled',
                                  'department', 'lastLogon', 'timestamp', 'lockedOut', 'passwordExpired'] if c in df.columns]
         st.dataframe(_enabled_fmt(df[cols_show]), use_container_width=True, hide_index=True)
         _download(df[cols_show], "A_orphelins_AD.csv")
@@ -373,7 +466,7 @@ elif section.startswith("⚠️"):
         "🔒 Bloqués", "🔑 MDP expirés", "⏰ Inactifs >90 j", "🆕 Jamais utilisés"
     ])
 
-    COLS_D = [c for c in ['employeeID', 'displayName', 'mail', 'enabled',
+    COLS_D = [c for c in ['employeeID', 'displayName', 'mail', 'type_util', 'enabled',
                            'lastLogon', 'timestamp', 'department', 'lockedOut', 'passwordExpired'] if c in ad.columns]
 
     def _d_table(df, note, filename):
@@ -433,7 +526,7 @@ elif section.startswith("📧"):
                           coloraxis_showscale=False, xaxis_tickangle=-30)
         st.plotly_chart(fig, use_container_width=True)
 
-        cols_show = [c for c in ['employeeID', 'displayName', 'mail', 'enabled',
+        cols_show = [c for c in ['employeeID', 'displayName', 'mail', 'type_util', 'enabled',
                                  'department', 'lastLogon'] if c in df.columns]
         st.subheader(f"Détail — {r['n_dup_mail']} compte(s) en doublon")
         st.dataframe(_enabled_fmt(df[cols_show]), use_container_width=True, hide_index=True)
