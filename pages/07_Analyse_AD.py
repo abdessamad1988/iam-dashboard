@@ -41,6 +41,13 @@ div[data-testid="stRadio"] label:hover {
 # ── Données ───────────────────────────────────────────────────────────────────
 rh, rh_prev, ad, ldap, logs, merged = load_all_data()
 
+# Garantir la colonne type_util même si le cache a retourné une ancienne version
+if 'type_util' not in ad.columns:
+    ad = ad.copy()
+    ad['type_util'] = ad['mail'].apply(
+        lambda x: 'Prestataire' if str(x).lower().startswith('v-') else 'Agent'
+    )
+
 m_label  = rh['mois'].iloc[0]      if not rh.empty      else 'M'
 m1_label = rh_prev['mois'].iloc[0] if not rh_prev.empty else 'M-1'
 
