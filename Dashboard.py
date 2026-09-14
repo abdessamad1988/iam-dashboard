@@ -23,6 +23,10 @@ st.set_page_config(
 )
 apply_css()
 
+# ── Load data ─────────────────────────────────────────────────────────────────
+rh, rh_prev, ad, ldap, logs, merged = load_all_data()
+kpis = compute_kpis(rh, rh_prev, ad, ldap, logs, merged)
+
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## 🔐 IAM Dashboard")
@@ -57,10 +61,6 @@ with st.sidebar:
 st.title("🏠 Vue Globale — IAM")
 st.caption("Tableau de bord supervision RH · AD · LDAP | V1 MVP")
 st.divider()
-
-# ── Load data ─────────────────────────────────────────────────────────────────
-rh, rh_prev, ad, ldap, logs, merged = load_all_data()
-kpis = compute_kpis(rh, rh_prev, ad, ldap, logs, merged)
 
 # ── KPI Row 1 ─────────────────────────────────────────────────────────────────
 c1, c2, c3, c4 = st.columns(4)
